@@ -1,0 +1,214 @@
+ Diagnosis, Precentage in Top Five
+achalasia, 0.16
+acid reflux, 0.02
+acute disseminated encephalomyelitis (adem), 0.02
+acute glomerulonephritis, 0.06
+acute lymphoblastic leukemia, 0.02
+acute rheumatic fever, 0.08
+alagille syndrome, 0.02
+alport syndrome, 0.06
+anxiety, 0.06
+anxiety disorder, 0.1
+atopic dermatitis, 0.02
+autoimmune hepatitis, 0.06
+bacterial meningitis, 0.04
+cardiac condition (such as pericarditis), 0.02
+cardiac disease, 0.02
+cardiac issues such as myocarditis, 0.02
+cardiomyopathy, 0.24
+celiac disease, 0.02
+chiari malformation, 0.02
+chronic granulomatous disease, 0.02
+chronic kidney disease, 0.1
+chronic liver disease, 0.02
+chronic myeloid leukemia, 0.02
+chronic obstructive pulmonary disease (copd), 0.02
+churg-strauss syndrome, 0.02
+cognitive impairment, 0.02
+congenital heart disease, 0.66
+congenital hepatic fibrosis, 0.02
+congenital syphilis, 0.02
+congestive cardiac failure, 0.02
+congestive heart failure, 0.32
+congestive hepatomegaly, 0.04
+congestive splenomegaly, 0.02
+costochondritis, 0.08
+cystic fibrosis, 0.88
+cystinosis, 0.02
+dehydration, 0.1
+dermatomyositis, 1.68
+diabetes mellitus type 1, 0.02
+diabetic ketoacidosis, 0.02
+dilated cardiomyopathy, 0.02
+duchenne muscular dystrophy, 0.22
+ehlers-danlos syndrome, 0.02
+encephalitis, 0.02
+eosinophilic esophagitis, 2.58
+eosinophilic fasciitis, 0.24
+eosinophilic granulomatosis with polyangiitis, 0.06
+eosinophilic granulomatosis with polyangiitis (churg-strauss syndrome), 0.3
+eosinophilic granulomatosis with polyangiitis (egpa), 0.02
+esophageal disorders, 0.02
+esophageal dysmotility, 0.06
+esophageal dysphagia, 0.04
+esophageal stricture, 0.98
+familial mediterranean fever, 0.04
+fibromyalgia, 0.14
+food impaction, 0.02
+food impaction (esophageal stricture), 0.02
+gastroesophageal reflux disease (gerd), 0.42
+gaucher disease, 0.34
+gaucher's disease, 0.12
+glomerulonephritis, 0.04
+glycogen storage disease, 0.02
+goodpasture syndrome, 0.02
+guillain-barre syndrome, 0.12
+hashimoto's thyroiditis, 0.02
+hemophilia, 0.02
+henoch-schonlein purpura, 0.2
+henoch-schonlein purpura (hsp), 0.02
+henoch-schönlein purpura, 0.28
+hepatitis, 0.56
+hepatitis c, 0.02
+hepatomegaly, 0.02
+hypersplenism, 0.02
+hypertension, 0.06
+hypertension secondary to renal artery stenosis, 0.02
+hyperthyroidism, 0.04
+hypertrophic cardiomyopathy, 0.06
+hypothermia, 0.02
+hypothyroid myopathy, 0.02
+hypothyroidism, 0.6
+idiopathic pulmonary fibrosis, 0.04
+infection, 0.02
+infection (possibly bacterial), 0.02
+infectious arthritis, 0.02
+infectious disease (e.g. viral or bacterial infection), 0.02
+infectious hepatitis, 0.04
+infectious mononucleosis, 1.1
+infective endocarditis, 0.08
+inflammatory bowel disease, 0.02
+inflammatory bowel disease (ibd), 0.02
+inflammatory myositis, 0.02
+influenza, 0.18
+interstitial lung disease, 0.18
+juvenile dermatomyositis, 5.58
+juvenile gaucher disease, 0.02
+juvenile hemochromatosis, 0.02
+juvenile hepatic fibrosis, 0.02
+juvenile hypertension, 0.08
+juvenile idiopathic arthritis, 17.24
+juvenile idiopathic arthritis (jia), 0.58
+juvenile idiopathic arthritis with uveitis, 0.02
+juvenile idiopathic oligoarthritis, 0.02
+juvenile idiopathic pneumonia, 0.04
+juvenile idiopathic pulmonary fibrosis, 0.04
+juvenile idiopathic pulmonary hypertension, 0.02
+juvenile idiopathic spleenomegaly, 0.06
+juvenile idiopathic splenomegaly, 0.02
+juvenile lupus, 0.06
+juvenile myasthenia gravis, 0.04
+juvenile myositis, 0.18
+juvenile nephropathy, 0.02
+juvenile nephrotic syndrome, 0.1
+juvenile polymyositis, 0.02
+juvenile psoriatic arthritis, 0.02
+juvenile psychiatric disorder, 0.02
+juvenile rheumatoid arthritis, 0.68
+juvenile sarcoidosis, 0.08
+juvenile scleroderma, 0.24
+juvenile sjogren's syndrome, 0.06
+juvenile systemic hypertension, 0.04
+juvenile systemic lupus erythematosus, 0.72
+juvenile systemic lupus erythematosus (sle), 0.04
+juvenile systemic sclerosis, 1.32
+kawasaki disease, 5.62
+leukemia, 0.14
+lupus, 0.5
+lupus erythematosus, 0.02
+lupus nephritis, 0.34
+lyme disease, 0.18
+lymphoma, 0.04
+meningitis, 0.28
+meningococcal meningitis, 0.04
+mitochondrial disease, 0.02
+mixed connective tissue disease, 0.48
+mixed connective tissue disease (mctd), 0.28
+mononucleosis, 0.02
+muscular dystrophy, 0.2
+myasthenia gravis, 0.6
+myocarditis, 0.44
+myositis, 0.18
+non-alcoholic fatty liver disease, 0.02
+nonalcoholic fatty liver disease, 0.02
+nonalcoholic fatty liver disease (nafld), 0.02
+pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (pandas), 0.06
+pediatric nephrotic syndrome, 0.02
+pericardial effusion, 0.02
+pericarditis, 0.08
+pleural effusion, 0.08
+pneumonia, 0.06
+polyarteritis nodosa, 0.04
+polymyositis, 0.28
+portal hypertension, 0.02
+pulmonary fibrosis, 0.62
+pulmonary hypertension, 0.48
+raynaud's disease, 0.88
+raynaud's phenomenon, 6.1
+renal disease, 0.06
+rheumatic fever, 2.8
+rheumatic heart disease, 0.14
+rheumatoid arthritis, 0.36
+sarcoidosis, 0.48
+scarlet fever, 0.1
+scleroderma, 2.28
+septic arthritis, 0.02
+sickle cell anemia, 0.08
+sickle cell disease, 0.14
+sjogren's syndrome, 4.52
+sjögren's syndrome, 0.38
+splenomegaly, 0.02
+strep throat infection, 0.02
+streptococcal infection, 0.02
+streptococcal pharyngitis, 0.02
+systemic amyloidosis, 0.02
+systemic hypertension, 0.02
+systemic inflammatory response syndrome, 0.02
+systemic juvenile idiopathic arthritis, 0.72
+systemic juvenile idiopathic arthritis (sjia), 0.06
+systemic juvenile idiopathic arthritis (still's disease), 0.04
+systemic lupus erythematosus, 6.88
+systemic lupus erythematosus (sle), 8.85
+systemic lupus erythematosus (sle) with cardiac involvement, 0.02
+systemic lupus erythematosus (sle) with encephalopathy, 0.02
+systemic lupus erythematosus (sle) with lupus nephritis, 0.02
+systemic lupus erythematosus (sle) with raynaud's phenomenon, 0.02
+systemic lupus erythematosus (sle) with secondary sjögren's syndrome, 0.02
+systemic lupus erythematosus with cns involvement, 0.02
+systemic lupus erythematosus with lupus nephritis, 0.02
+systemic lupus erythematosus with organ involvement, 0.02
+systemic lupus nephritis, 0.06
+systemic mastocytosis, 0.02
+systemic sarcoidosis, 0.04
+systemic scleroderma, 0.14
+systemic sclerosis, 6.76
+systemic sclerosis (scleroderma), 2.1
+systemic sclerosis (scleroderma) with scleroderma renal crisis, 0.02
+systemic sclerosis-associated interstitial lung disease, 0.02
+systemic vasculitis, 0.56
+tetralogy of fallot, 0.02
+thromboangiitis obliterans (buerger's disease), 0.04
+tuberculosis, 0.02
+tuberculosis meningitis, 0.06
+type 1 diabetes, 0.02
+vasculitis, 0.02
+viral hepatitis, 0.08
+viral infection, 0.3
+viral infection (e.g., mononucleosis), 0.02
+viral infection (such as mononucleosis), 0.02
+viral meningitis, 0.06
+viral myocarditis, 0.02
+viral myositis, 0.06
+wegener's granulomatosis, 0.06
+wilms tumor, 0.02
+wilson's disease, 0.76

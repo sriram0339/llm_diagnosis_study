@@ -1,0 +1,218 @@
+ Diagnosis, Precentage in Top Five
+acute disseminated encephalomyelitis (adem), 0.02
+acute glomerulonephritis, 0.46
+acute hepatitis, 0.02
+acute leukemia, 0.02
+acute lymphoblastic leukemia, 0.02
+acute lymphoblastic leukemia (all), 0.14
+acute post-streptococcal glomerulonephritis, 0.14
+acute pyelonephritis, 0.02
+acute rheumatic fever, 0.5
+alpha-1 antitrypsin deficiency, 0.02
+appendicitis, 0.02
+atopic dermatitis (eczema), 0.02
+autoimmune disorder (e.g., juvenile idiopathic arthritis), 0.02
+autoimmune encephalitis, 0.04
+autoimmune hepatitis, 2.44
+autoimmune pancreatitis, 0.06
+autoimmune thyroiditis (hashimoto's disease), 0.02
+bacterial endocarditis, 0.04
+behçet's disease, 0.14
+bladder or kidney stones, 0.02
+brain tumor, 0.04
+canker sores, 0.02
+cat scratch disease, 0.16
+celiac disease, 0.54
+chickenpox, 0.02
+childhood asthma, 0.04
+childhood leukemia, 0.02
+childhood tuberculosis, 0.04
+childhood vasculitis, 0.06
+childhood-onset granulomatosis with polyangiitis, 0.02
+childhood-onset granulomatosis with polyangiitis (gpa), 0.02
+childhood-onset polyarteritis nodosa, 0.02
+childhood-onset sarcoidosis, 0.02
+childhood-onset schizophrenia, 0.04
+childhood-onset scleroderma, 0.08
+childhood-onset sjogren's syndrome, 0.02
+chronic active epstein-barr virus infection, 0.04
+chronic active hepatitis, 0.2
+chronic fatigue syndrome, 0.02
+chronic kidney disease, 0.12
+chronic kidney disease (ckd), 0.02
+chronic pancreatitis, 0.02
+congenital heart disease with complications, 0.02
+congenital hepatic fibrosis, 0.02
+constitutional growth delay, 0.02
+crohn's disease, 0.04
+cystic fibrosis, 0.02
+dermatomyositis, 0.88
+discoid lupus erythematosus, 0.02
+drug reaction with eosinophilia and systemic symptoms (dress), 0.02
+drug-induced liver injury, 0.02
+drug-induced lupus, 1.04
+endocarditis, 0.06
+epilepsy with comorbid autoimmune condition, 0.02
+epstein-barr virus (ebv) hepatitis, 0.02
+epstein-barr virus (ebv) infection, 1.18
+epstein-barr virus infection (mononucleosis), 0.02
+erythropoietic protoporphyria, 0.04
+familial mediterranean fever, 0.18
+familial mediterranean fever (fmf), 0.14
+fibromyalgia, 0.04
+fifth disease (erythema infectiosum), 0.02
+gaucher disease, 0.04
+gingivostomatitis, 0.02
+glomerulonephritis, 0.04
+glycogen storage disease, 0.1
+glycogen storage disease type i, 0.06
+glycogen storage disease type i (von gierke disease), 0.02
+goodpasture syndrome, 0.02
+goodpasture's syndrome, 0.04
+granulomatosis with polyangiitis, 0.14
+granulomatosis with polyangiitis (formerly wegener's granulomatosis), 0.08
+granulomatosis with polyangiitis (formerly wegener's), 0.16
+granulomatosis with polyangiitis (gpa), 0.1
+graves' disease, 0.02
+growing pains, 0.02
+growth hormone deficiency, 0.02
+hand, foot, and mouth disease, 0.08
+hashimoto's encephalopathy, 0.02
+hashimoto's thyroiditis, 0.02
+hemochromatosis, 0.04
+hemolytic anemia, 0.08
+hemolytic uremic syndrome (hus), 0.22
+hemophagocytic lymphohistiocytosis (hlh), 0.98
+henoch-schönlein purpura, 0.08
+henoch-schönlein purpura (hsp), 3.6
+hepatic encephalopathy, 0.02
+hepatitis, 0.1
+hepatitis (viral or autoimmune), 0.02
+hepatitis a, 0.18
+hepatitis with complications, 0.02
+hepatosplenomegaly due to infectious mononucleosis, 0.02
+hereditary hemorrhagic telangiectasia, 0.02
+hodgkin's lymphoma, 0.56
+hyperthyroidism, 0.06
+hypothyroidism, 0.04
+iga nephropathy, 0.02
+infectious endocarditis, 0.02
+infectious mononucleosis, 1.92
+infectious mononucleosis (mono), 0.02
+inflammatory bowel disease (ibd), 0.2
+juvenile dermatomyositis, 3.52
+juvenile idiopathic arthritis (jia), 17.49
+juvenile idiopathic arthritis (systemic onset), 0.04
+juvenile idiopathic arthritis (systemic-onset), 0.22
+juvenile rheumatoid arthritis, 0.12
+juvenile rheumatoid arthritis (jra), 0.04
+juvenile rheumatoid arthritis (systemic-onset), 0.02
+juvenile systemic lupus erythematosus (jsle), 0.06
+kawasaki disease, 8.51
+leishmania infection, 0.02
+leptospirosis, 0.02
+leukemia, 2.42
+lichen planus, 0.02
+lyme disease, 11.38
+lymphoma, 3.94
+lymphoma (hodgkin's or non-hodgkin's), 0.3
+lymphoma (particularly hodgkin's lymphoma), 0.18
+malaria, 0.02
+malnutrition, 0.02
+measles, 0.06
+mitochondrial disease, 0.02
+mixed connective tissue disease, 5.57
+mixed connective tissue disease (mctd), 0.04
+mononucleosis, 0.02
+nephrotic syndrome, 0.12
+neuroblastoma, 0.02
+neuropsychiatric lupus, 0.04
+non-hodgkin's lymphoma, 0.04
+nutritional deficiency, 0.02
+oral thrush, 0.02
+otitis media (ear infection), 0.02
+pediatric antiphospholipid syndrome, 0.04
+pediatric antiphospholipid syndrome (aps), 0.02
+pediatric anxiety disorder, 0.02
+pediatric autoimmune hepatitis, 0.02
+pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (pandas), 0.16
+pediatric behçet's disease, 0.04
+pediatric chronic fatigue syndrome, 0.02
+pediatric depression with psychosomatic symptoms, 0.02
+pediatric fibromyalgia, 0.02
+pediatric inflammatory bowel disease (ibd), 0.02
+pediatric lupus, 0.04
+pediatric lymphoma, 0.04
+pediatric neuropsychiatric disorders associated with streptococcal infections (pandas), 0.02
+pediatric onset schizophrenia, 0.02
+pediatric sarcoidosis, 0.24
+pediatric scleroderma, 0.02
+pediatric thyroid disorder (hyperthyroidism), 0.02
+pediatric tuberculosis, 0.02
+pediatric vasculitis, 0.22
+pediatric vasculitis (e.g., henoch-schönlein purpura), 0.02
+periodic fever syndrome, 0.02
+pneumonia, 0.04
+pneumonia with sepsis, 0.02
+polyarteritis nodosa, 0.16
+polymorphous light eruption, 0.02
+polymyositis with secondary skin involvement, 0.02
+porphyria, 0.04
+post-streptococcal glomerulonephritis, 0.52
+reye's syndrome, 0.02
+rheumatic fever, 0.98
+rheumatoid arthritis (juvenile onset), 0.02
+rosacea, 0.02
+rubella, 0.02
+sarcoidosis, 1.04
+scarlet fever, 0.12
+scleroderma, 0.08
+severe allergic reaction or drug reaction, 0.02
+sickle cell disease, 0.02
+sjogren's syndrome, 0.08
+sjögren's syndrome, 0.14
+stevens-johnson syndrome, 0.04
+strep throat, 0.04
+streptococcal infection (strep throat), 0.02
+streptococcal pharyngitis, 0.02
+streptococcal pharyngitis (strep throat), 0.04
+streptococcal pharyngitis with post-streptococcal glomerulonephritis, 0.02
+streptococcal pharyngitis with scarlet fever, 0.02
+systemic lupus erythematosus, 0.06
+systemic lupus erythematosus (juvenile onset), 0.02
+systemic lupus erythematosus (juvenile), 0.02
+systemic lupus erythematosus (sle), 19.47
+thyroid disorder (e.g., hyperthyroidism), 0.02
+tuberculosis, 0.86
+tuberculosis (tb), 0.02
+turner syndrome, 0.02
+urinary tract infection, 0.02
+urinary tract infection (uti), 0.02
+vasculitis, 0.04
+vasculitis (e.g., granulomatosis with polyangiitis), 0.08
+vasculitis (e.g., henoch-schönlein purpura), 0.08
+vasculitis (e.g., kawasaki disease), 0.02
+vasculitis (e.g., polyarteritis nodosa), 0.08
+vasculitis (e.g., wegener's granulomatosis), 0.02
+viral encephalitis, 0.08
+viral exanthem, 0.02
+viral exanthem (e.g., coxsackievirus), 0.02
+viral exanthem (e.g., epstein-barr virus), 0.02
+viral exanthem (e.g., measles or rubella), 0.02
+viral exanthem with complications, 0.02
+viral gastroenteritis, 0.04
+viral hepatitis, 0.26
+viral infection (e.g., coxsackievirus), 0.02
+viral infection (e.g., epstein-barr virus), 0.06
+viral infection (e.g., influenza), 0.02
+viral infection (e.g., parvovirus b19), 0.02
+viral infection with complications, 0.02
+viral myocarditis, 0.06
+viral pharyngitis, 0.02
+viral upper respiratory infection, 0.02
+visceral leishmaniasis, 0.04
+vitamin b12 deficiency, 0.02
+wegener's granulomatosis, 0.28
+wegener's granulomatosis (granulomatosis with polyangiitis), 0.08
+wilms' tumor (nephroblastoma), 0.02
+wilson's disease, 0.12

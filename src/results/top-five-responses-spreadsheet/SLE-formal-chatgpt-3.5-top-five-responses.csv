@@ -1,0 +1,154 @@
+ Diagnosis, Precentage in Top Five
+acute disseminated encephalomyelitis, 0.24
+acute disseminated encephalomyelitis (adem), 0.4
+acute glomerulonephritis, 0.4
+acute hepatic encephalopathy, 0.08
+acute intermittent porphyria, 0.24
+acute interstitial pneumonia, 0.08
+acute lymphoblastic leukemia, 0.16
+acute pancreatitis, 0.08
+acute poststreptococcal glomerulonephritis, 0.24
+acute rheumatic fever, 0.64
+acute viral hepatitis, 0.08
+alopecia areata, 0.24
+asthma, 0.08
+autoimmune hepatitis, 2.09
+autoimmune pancreatitis, 0.08
+bacterial infection, 0.08
+behcet's disease, 0.4
+behçet's disease, 0.08
+cat scratch disease, 0.08
+celiac disease, 0.4
+chronic inflammatory disease, 0.08
+chronic kidney disease, 0.08
+congenital heart disease, 0.08
+crohn's disease, 1.36
+cystic fibrosis, 0.4
+dermatomyositis, 0.24
+dilated cardiomyopathy, 0.08
+drug-induced lupus, 0.08
+epstein-barr virus (ebv) infection, 0.08
+familial mediterranean fever, 0.56
+familial mediterranean fever (fmf), 0.32
+gastrointestinal disease, 0.08
+gaucher disease, 0.08
+granulomatosis with polyangiitis, 0.24
+granulomatosis with polyangiitis (gpa), 0.48
+granulomatosis with polyangiitis (wegener's), 0.08
+henoch-schonlein purpura, 0.16
+henoch-schonlein purpura (hsp), 0.48
+henoch-schönlein purpura, 0.32
+henoch-schönlein purpura (hsp), 0.56
+hepatitis, 0.64
+hypertension, 0.08
+hyperthyroidism, 0.24
+infection (such as viral or bacterial), 0.08
+infectious arthritis, 0.16
+infectious mononucleosis, 5.06
+infective endocarditis, 0.08
+inflammatory bowel disease, 1.52
+inflammatory bowel disease (crohn's disease or ulcerative colitis), 0.32
+inflammatory bowel disease (ibd), 1.36
+influenza, 0.08
+juvenile autoimmune hepatitis, 0.08
+juvenile dermatomyositis, 1.84
+juvenile idiopathic alopecia areata, 0.08
+juvenile idiopathic arthritis, 9.16
+juvenile idiopathic arthritis (jia), 7.79
+juvenile idiopathic pulmonary fibrosis, 0.08
+juvenile idiopathic pulmonary hypertension, 0.08
+juvenile idiopathic systemic vasculitis, 0.08
+juvenile nephritis, 0.08
+juvenile rheumatoid arthritis, 0.08
+juvenile sarcoidosis, 0.16
+juvenile sjogren's syndrome, 0.08
+juvenile systemic lupus erythematosus, 0.4
+juvenile systemic lupus erythematosus (jsle), 0.56
+juvenile systemic sclerosis, 1.04
+kawasaki disease, 10.12
+leukemia, 0.96
+lupus, 0.08
+lupus nephritis, 0.48
+lyme disease, 0.96
+lymphoma, 1.28
+malaria, 0.08
+malnutrition, 0.16
+meningitis, 0.32
+migraine, 0.24
+mixed connective tissue disease (mctd), 0.08
+myocarditis, 0.16
+nephrotic syndrome, 0.08
+neurocysticercosis, 0.08
+neurofibromatosis type 1, 0.08
+pancreatitis, 0.08
+pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (pandas), 0.08
+pediatric crohn's disease, 0.08
+pericarditis, 0.08
+pneumocystis pneumonia, 0.08
+pneumonia, 0.08
+primary biliary cholangitis, 0.08
+primary immunodeficiency disorder, 0.08
+psoriatic arthritis, 0.08
+pulmonary disease, 0.08
+pulmonary embolism, 0.08
+rheumatic fever, 1.44
+rheumatic heart disease, 0.08
+rheumatoid arthritis, 0.08
+sarcoidosis, 0.56
+scarlet fever, 0.08
+sepsis, 0.08
+stevens-johnson syndrome, 0.08
+still's disease, 0.08
+streptococcal infection, 0.16
+sturge-weber syndrome, 0.08
+systemic candidiasis, 0.08
+systemic infections (such as tuberculosis or fungal infections), 0.08
+systemic inflammatory response syndrome, 0.08
+systemic jia, 0.08
+systemic juvenile idiopathic arthritis, 2.17
+systemic juvenile idiopathic arthritis (sjia), 2.49
+systemic juvenile idiopathic arthritis (still's disease), 1.44
+systemic juvenile lupus erythematosus, 0.08
+systemic lupus erythematosus, 5.78
+systemic lupus erythematosus (sle), 14.95
+systemic lupus erythematosus (sle) with central nervous system (cns) involvement, 0.16
+systemic lupus erythematosus (sle) with central nervous system involvement, 0.08
+systemic lupus erythematosus (sle) with cns involvement, 0.24
+systemic lupus erythematosus (sle) with gastrointestinal involvement, 0.08
+systemic lupus erythematosus (sle) with lupus nephritis, 0.56
+systemic lupus erythematosus (sle) with lupus psychosis, 0.08
+systemic lupus erythematosus (sle) with neuropsychiatric involvement, 0.16
+systemic lupus erythematosus (sle) with neuropsychiatric symptoms, 0.08
+systemic lupus erythematosus (sle) with secondary antiphospholipid syndrome (aps), 0.08
+systemic lupus erythematosus with cns involvement, 0.08
+systemic lupus erythematosus with gastrointestinal involvement, 0.08
+systemic lupus erythematosus with hepatic involvement, 0.08
+systemic lupus erythematosus with lupus nephritis, 0.16
+systemic lupus erythematosus with myocarditis, 0.08
+systemic lupus erythematosus with neuropsychiatric involvement, 0.08
+systemic lupus erythematosus with neuropsychiatric symptoms, 0.08
+systemic lupus erythematosus with pleuritis, 0.08
+systemic lupus erythematosus with renal involvement, 0.16
+systemic lupus nephritis, 0.24
+systemic onset juvenile idiopathic arthritis, 0.64
+systemic onset juvenile idiopathic arthritis (sojia), 0.32
+systemic onset juvenile idiopathic arthritis (still's disease), 0.16
+systemic onset juvenile rheumatoid arthritis, 0.08
+systemic onset juvenile rheumatoid arthritis (sojia), 0.08
+systemic sclerosis, 0.96
+systemic sclerosis (juvenile), 0.08
+systemic sclerosis (scleroderma), 0.16
+systemic vasculitis, 2.09
+systemic vasculitis (e.g., henoch-schonlein purpura), 0.08
+systemic vasculitis (e.g., kawasaki disease), 0.08
+systemic vasculitis (such as kawasaki disease), 0.08
+systemic-onset juvenile idiopathic arthritis, 0.08
+toxic shock syndrome, 0.08
+tuberculosis, 1.2
+tuberous sclerosis, 0.16
+typhoid fever, 0.32
+urinary tract infection (uti), 0.08
+viral hepatitis, 0.24
+viral infection, 0.08
+wegener's granulomatosis, 0.08
+wilson's disease, 0.8

@@ -1,0 +1,133 @@
+ Diagnosis, Precentage in Top Five
+achalasia, 0.04
+acrocyanosis, 0.02
+acute lymphoblastic leukemia (all), 0.02
+acute rheumatic fever, 0.14
+anemia, 0.04
+anxiety disorder or depression, 0.02
+autoimmune disorders, 0.02
+autoimmune hepatitis, 0.28
+autoimmune lymphoproliferative syndrome (alps), 0.02
+buerger's disease, 0.02
+chronic granulomatous disease (cgd), 0.02
+chronic kidney disease, 0.02
+chronic liver disease, 0.04
+chronic obstructive pulmonary disease (copd), 0.02
+congenital heart disease, 0.2
+connective tissue disorder, 0.02
+costochondritis, 0.06
+crohn's disease, 0.04
+dehydration, 0.1
+dermatomyositis, 2.5
+diabetes mellitus, 0.02
+diabetes mellitus (type 1), 0.02
+eisenmenger syndrome, 0.02
+eisenmenger's syndrome, 0.02
+endocrine disorder (e.g., hyperthyroidism), 0.02
+eosinophilic esophagitis, 1.0
+eosinophilic esophagitis (eoe), 0.04
+eosinophilic gastrointestinal disorders, 0.02
+esophageal dysmotility, 0.12
+esophageal dysmotility disorder, 0.04
+esophageal stricture, 0.44
+esophageal stricture or achalasia, 0.1
+esophageal stricture or dysphagia, 0.08
+felty's syndrome, 0.02
+fibromyalgia, 0.06
+frostbite, 0.04
+gastroesophageal reflux disease (gerd), 0.08
+glomerulonephritis, 0.02
+glycogen storage disease, 0.06
+growing pains, 0.04
+hemolytic anemia, 0.02
+henoch-schönlein purpura, 0.18
+henoch-schönlein purpura (hsp), 0.9
+hepatic cirrhosis, 0.02
+hepatic disorder, 0.02
+hepatic glycogen storage disease, 0.02
+hepatic involvement, 0.02
+hepatitis, 0.26
+hepatitis or liver disease, 0.02
+hepatosplenic t-cell lymphoma, 0.02
+hypertensive emergency, 0.04
+hypothyroidism, 0.06
+infectious disease, 0.02
+infectious mononucleosis, 0.04
+infective endocarditis, 0.02
+inflammatory bowel disease (ibd), 0.08
+interstitial lung disease, 0.44
+interstitial lung disease (ild), 0.32
+juvenile dermatomyositis, 11.21
+juvenile idiopathic arthritis, 2.54
+juvenile idiopathic arthritis (jia), 14.69
+juvenile polymyositis, 0.02
+juvenile rheumatoid arthritis, 0.08
+juvenile rheumatoid arthritis (jra), 0.14
+juvenile scleroderma, 0.06
+juvenile systemic lupus erythematosus, 0.02
+juvenile systemic lupus erythematosus (sle), 0.04
+kawasaki disease, 2.1
+leukemia, 0.74
+lupus, 0.28
+lupus erythematosus, 0.04
+lupus nephritis, 0.02
+lyme disease, 0.02
+lymphoma, 0.06
+malignancy, 0.02
+meningitis, 0.2
+meningococcal disease, 0.02
+meningococcal meningitis, 0.44
+metabolic disorder, 0.02
+mixed connective tissue disease, 0.56
+mixed connective tissue disease (mctd), 12.89
+muscular dystrophy, 0.06
+myasthenia gravis, 0.04
+myocarditis, 0.02
+overlap syndrome, 0.06
+paraneoplastic syndrome, 0.02
+polyarteritis nodosa, 0.38
+polyarteritis nodosa (pan), 0.06
+polymyositis, 0.24
+polymyositis/dermatomyositis, 0.04
+psychiatric disorder, 0.02
+pulmonary arterial hypertension, 0.08
+pulmonary arterial hypertension (pah), 0.16
+pulmonary fibrosis, 0.04
+pulmonary hypertension, 0.42
+raynaud's phenomenon, 3.78
+reactive arthritis, 0.04
+respiratory disorder, 0.02
+respiratory infection, 0.02
+rheumatic fever, 1.18
+rheumatic heart disease, 0.04
+rheumatoid arthritis, 0.28
+rheumatoid arthritis (ra), 0.02
+sarcoidosis, 0.74
+scleroderma, 11.35
+scleroderma (systemic sclerosis), 0.18
+serositis, 0.02
+sickle cell disease, 0.12
+sjogren's syndrome, 0.42
+sjögren's syndrome, 3.5
+streptococcal pharyngitis, 0.08
+streptococcal pharyngitis (strep throat), 0.02
+systemic lupus erythematosus, 0.22
+systemic lupus erythematosus (sle), 16.67
+systemic scleroderma (diffuse cutaneous systemic sclerosis), 0.04
+systemic sclerosis (scleroderma), 2.1
+thalassemia, 0.02
+thyroid disorder, 0.02
+tracheoesophageal fistula, 0.02
+trauma or injury, 0.02
+vasculitis, 2.26
+viral exanthem, 0.04
+viral hepatitis, 0.04
+viral infection, 0.2
+viral infection (e.g., epstein-barr virus, cytomegalovirus), 0.02
+viral infection (e.g., influenza), 0.02
+viral infection (e.g., influenza, adenovirus), 0.04
+viral infection (e.g., influenza, common cold), 0.02
+viral meningitis, 0.04
+viral myocarditis, 0.02
+viral respiratory infection, 0.04
+vitamin d deficiency, 0.04

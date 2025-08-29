@@ -1,0 +1,147 @@
+ Diagnosis, Precentage in Top Five
+abdominal pain, 0.04
+abscess, 0.04
+acanthosis nigricans, 0.4
+achalasia, 0.64
+acne, 0.02
+acrocyanosis, 0.48
+acromegaly, 0.28
+amyloidosis, 0.06
+anemia, 1.32
+anxiety disorder, 0.08
+asthma, 0.62
+atopic dermatitis (eczema), 0.08
+buerger's disease, 1.48
+cardiac condition, 0.02
+carpal tunnel syndrome, 0.04
+celiac disease, 0.44
+chilblains, 1.64
+chronic fatigue syndrome, 0.06
+complex regional pain syndrome, 0.12
+complex regional pain syndrome (crps), 0.34
+congenital heart defect, 0.06
+congenital heart disease, 0.08
+connective tissue disorder, 1.28
+connective tissue disorder (e.g., lupus, scleroderma), 0.04
+connective tissue disorders, 0.14
+contact dermatitis, 0.1
+crohn's disease, 0.02
+cushing's syndrome, 0.28
+cutaneous lymphoma, 0.06
+cyst, 0.04
+cystic fibrosis, 0.44
+dehydration, 0.02
+dermatomyositis, 7.36
+diabetes, 0.34
+diabetes mellitus, 0.38
+eczema, 0.54
+eosinophilic esophagitis, 1.44
+eosinophilic esophagitis (eoe), 0.02
+eosinophilic fasciitis, 0.3
+epidermolysis bullosa, 0.04
+erythema nodosum, 0.02
+erythromelalgia, 0.08
+esophageal achalasia, 0.02
+esophageal cancer, 0.04
+esophageal dysmotility, 0.18
+esophageal motility disorder, 0.12
+esophageal ring, 0.02
+esophageal ring or web, 0.08
+esophageal rings, 0.04
+esophageal rings or webs, 0.02
+esophageal stricture, 0.92
+esophageal stricture or achalasia, 0.1
+esophageal stricture or dysmotility, 0.02
+esophageal tumor, 0.02
+esophageal webs, 0.06
+exercise-induced bronchoconstriction, 0.02
+fibromyalgia, 1.64
+folliculitis, 0.06
+foreign body ingestion, 0.04
+frostbite, 5.54
+gastroesophageal reflux disease (gerd), 0.24
+graft-versus-host disease, 0.02
+granuloma annulare, 0.04
+growing pains, 0.46
+headache, 0.04
+heart condition, 0.02
+hypermobility syndrome, 0.06
+hypothyroidism, 2.44
+ichthyosis, 0.6
+infection, 0.04
+inflammatory bowel disease (ibd), 0.22
+injury or trauma, 0.04
+insect bite or sting, 0.04
+insect bites, 0.02
+interstitial lung disease, 0.12
+iron deficiency, 0.02
+juvenile dermatomyositis, 2.3
+juvenile idiopathic arthritis, 4.92
+juvenile idiopathic arthritis (jia), 4.42
+juvenile rheumatoid arthritis, 0.04
+juvenile rheumatoid arthritis (jra), 0.38
+juvenile scleroderma, 0.02
+juvenile systemic lupus erythematosus (jsle), 0.02
+kawasaki disease, 0.02
+keratosis pilaris, 0.56
+lactose intolerance, 0.22
+legg-calve-perthes disease, 0.06
+lichen planus, 0.1
+lichen sclerosus, 0.1
+lipoid proteinosis, 0.08
+lipoma, 0.04
+lupus, 2.96
+lupus erythematosus, 0.98
+lyme disease, 0.06
+malnutrition, 0.62
+metabolic disorder, 0.06
+mixed connective tissue disease, 2.2
+mixed connective tissue disease (mctd), 3.66
+molluscum contagiosum, 0.04
+morphea, 0.66
+morphea (localized scleroderma), 0.04
+muscular dystrophy, 0.08
+myositis, 0.04
+nephrogenic systemic fibrosis, 0.44
+neurofibromatosis type 1 (nf1), 0.08
+obesity, 0.02
+overuse injury, 0.06
+parasitic infection, 0.22
+peripheral artery disease, 2.34
+peripheral artery disease (pad), 2.5
+peripheral vascular disease, 0.02
+polymyositis, 0.4
+poor circulation, 0.44
+psoriasis, 0.48
+pulmonary hypertension, 0.46
+raynaud's disease, 0.02
+raynaud's phenomenon, 11.19
+reactive arthritis, 0.02
+respiratory infection, 0.04
+respiratory tract infection, 0.02
+rheumatic fever, 0.24
+rheumatoid arthritis, 0.56
+rheumatoid arthritis (ra), 0.02
+sarcoidosis, 0.06
+scleroderma, 13.67
+sickle cell anemia, 0.02
+sickle cell disease, 0.04
+sjögren's syndrome, 0.18
+systemic lupus erythematosus, 0.66
+systemic lupus erythematosus (sle), 3.28
+systemic scleroderma (diffuse cutaneous systemic sclerosis), 0.52
+systemic sclerosis, 0.02
+systemic sclerosis (scleroderma), 0.82
+thyroid disorder, 0.02
+trauma or injury, 0.08
+tuberous sclerosis, 0.06
+tuberous sclerosis complex (tsc), 0.02
+undifferentiated connective tissue disease (uctd), 0.02
+vasculitis, 0.04
+viral infection, 0.04
+viral myositis, 0.08
+vitamin d deficiency, 1.2
+vitamin deficiency, 0.06
+wart, 0.04
+warts, 0.04
+xanthomatosis, 0.06

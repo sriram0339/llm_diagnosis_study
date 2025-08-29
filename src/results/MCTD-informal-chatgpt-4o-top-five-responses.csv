@@ -1,0 +1,260 @@
+ Diagnosis, Precentage in Top Five
+acute leukemia, 0.02
+acute lymphoblastic leukemia (all), 0.02
+acute rheumatic fever, 0.06
+alport syndrome, 0.06
+amyloidosis, 0.14
+anemia, 0.02
+antiphospholipid syndrome, 0.08
+antisynthetase syndrome, 0.02
+anxiety or psychogenic dysphagia, 0.02
+autoimmune hepatitis, 0.08
+autoimmune hepatitis with multisystem involvement, 0.02
+chronic myelogenous leukemia (cml), 0.02
+coarctation of the aorta, 0.02
+cold agglutinin disease, 0.02
+congenital central hypoventilation syndrome, 0.02
+congenital heart defect with pulmonary hypertension, 0.02
+congenital heart disease, 0.04
+congenital heart disease with complications, 0.02
+congenital heart disease with secondary effects, 0.02
+congestive heart failure, 0.02
+costochondritis, 0.02
+crest syndrome (limited scleroderma), 0.02
+cyanotic congenital heart disease, 0.02
+cyanotic heart disease, 0.02
+cystic fibrosis, 0.24
+dehydration, 0.04
+dermatomyositis, 1.36
+ehlers-danlos syndrome, 0.22
+ehlers-danlos syndrome (vascular type), 0.04
+eisenmenger syndrome, 0.06
+eosinophilic esophagitis, 0.36
+eosinophilic fasciitis, 0.5
+eosinophilic granulomatosis with polyangiitis (churg-strauss syndrome), 0.02
+eosinophilic granulomatosis with polyangiitis (egpa), 0.1
+esophageal dysmotility, 0.06
+esophageal stricture, 0.14
+fanconi syndrome, 0.02
+fibromyalgia, 0.02
+fifth disease (erythema infectiosum), 0.02
+fifth disease (parvovirus b19 infection), 0.02
+gastroesophageal reflux disease (gerd), 0.08
+gaucher disease, 0.06
+gaucher's disease, 0.04
+glycogen storage disease, 0.06
+goodpasture syndrome, 0.02
+granulomatosis with polyangiitis (wegener's granulomatosis), 0.02
+hemolytic uremic syndrome, 0.02
+hemophagocytic lymphohistiocytosis (hlh), 0.02
+henoch-schönlein purpura, 0.12
+henoch-schönlein purpura (hsp), 0.92
+henoch-schönlein purpura (iga vasculitis), 0.02
+henoch-schönlein purpura with atypical presentation, 0.02
+hepatic involvement in a systemic inflammatory disorder, 0.02
+hyperthyroidism, 0.02
+hypothyroidism, 0.3
+iga nephropathy, 0.04
+infectious mononucleosis, 0.4
+infective endocarditis, 0.24
+juvenile dermatomyositis, 10.44
+juvenile idiopathic arthritis, 0.46
+juvenile idiopathic arthritis (jia), 4.68
+juvenile idiopathic arthritis (jia) with complications, 0.02
+juvenile idiopathic arthritis (jia) with raynaud's, 0.02
+juvenile idiopathic arthritis (jia) with raynaud's phenomenon, 0.06
+juvenile idiopathic arthritis (jia) with secondary sjögren's syndrome, 0.02
+juvenile idiopathic arthritis (jia) with systemic features, 0.46
+juvenile idiopathic arthritis (jia) with systemic involvement, 0.16
+juvenile idiopathic arthritis (jia) with systemic onset, 0.32
+juvenile idiopathic arthritis (systemic onset), 0.32
+juvenile idiopathic arthritis (systemic), 0.04
+juvenile idiopathic arthritis (with raynaud's phenomenon), 0.02
+juvenile idiopathic arthritis (with systemic features), 0.04
+juvenile idiopathic arthritis (with systemic involvement), 0.06
+juvenile idiopathic arthritis with lung involvement, 0.02
+juvenile idiopathic arthritis with systemic features, 0.06
+juvenile idiopathic arthritis with systemic onset, 0.02
+juvenile myasthenia gravis, 0.02
+juvenile rheumatoid arthritis, 0.26
+juvenile rheumatoid arthritis (jra), 0.5
+juvenile rheumatoid arthritis (jra) with extra-articular manifestations, 0.02
+juvenile rheumatoid arthritis (jra) with raynaud's phenomenon, 0.04
+juvenile rheumatoid arthritis (systemic onset), 0.04
+juvenile rheumatoid arthritis with systemic features (still’s disease), 0.02
+juvenile rheumatoid arthritis with systemic onset, 0.02
+juvenile rheumatoid arthritis with visceral involvement, 0.02
+juvenile sarcoidosis, 0.02
+juvenile scleroderma, 0.14
+juvenile sjögren's syndrome, 0.02
+juvenile systemic lupus erythematosus, 0.04
+juvenile systemic lupus erythematosus (jsle), 0.1
+juvenile systemic sclerosis, 2.94
+juvenile systemic sclerosis (scleroderma), 0.08
+kawasaki disease, 1.84
+langerhans cell histiocytosis, 0.02
+leukemia, 0.06
+lupus (juvenile systemic lupus erythematosus), 0.06
+lupus (sle), 0.04
+lupus (systemic lupus erythematosus - sle), 0.32
+lupus (systemic lupus erythematosus or sle), 0.02
+lupus (systemic lupus erythematosus), 4.0
+lupus erythematosus, 0.16
+lupus nephritis, 0.02
+lymphoma, 0.04
+meningococcemia, 0.02
+mitochondrial myopathy, 0.02
+mixed connective tissue disease, 3.4
+mixed connective tissue disease (mctd), 14.32
+mononucleosis, 0.02
+muscular dystrophy, 0.02
+myasthenia gravis, 0.16
+niemann-pick disease, 0.06
+parvovirus b19 infection, 0.02
+pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (pandas), 0.02
+pediatric lupus (sle), 0.02
+pediatric lupus (systemic lupus erythematosus), 0.04
+pediatric rheumatoid arthritis (jia), 0.02
+pediatric systemic lupus erythematosus, 0.02
+pediatric systemic lupus erythematosus (sle), 0.04
+pediatric vasculitis, 0.02
+pheochromocytoma, 0.02
+polyarteritis nodosa, 0.3
+polyarteritis nodosa (pan), 0.02
+polyarticular juvenile rheumatoid arthritis, 0.02
+polymyositis, 0.32
+polymyositis/dermatomyositis, 0.04
+primary biliary cholangitis, 0.1
+primary biliary cholangitis (pbc), 0.04
+primary biliary cholangitis (pbc) with overlap syndrome, 0.02
+primary biliary cholangitis (pbc), with overlapping autoimmune features, 0.02
+primary biliary cholangitis with overlap syndrome, 0.04
+primary hypertension, 0.02
+primary myelofibrosis, 0.02
+primary pulmonary arterial hypertension, 0.02
+primary pulmonary hypertension, 0.1
+primary raynaud's phenomenon with complications, 0.02
+primary raynaud's phenomenon with esophageal dysmotility, 0.02
+primary raynaud's phenomenon with secondary complications, 0.12
+primary raynaud's phenomenon with secondary lung involvement, 0.02
+primary raynaud's phenomenon with secondary organ involvement, 0.02
+primary raynaud's phenomenon with secondary symptoms, 0.02
+primary sjögren's syndrome, 0.16
+primary sjögren’s syndrome, 0.02
+psoriatic arthritis, 0.02
+pulmonary arterial hypertension (pah), 0.02
+pulmonary arterial hypertension (pah) secondary to connective tissue disease, 0.02
+pulmonary arteriovenous malformation, 0.02
+pulmonary fibrosis, 0.02
+pulmonary hypertension, 0.02
+raynaud's disease, 0.24
+raynaud's disease with secondary complications, 0.04
+raynaud's phenomenon, 1.9
+raynaud's phenomenon (secondary), 0.02
+raynaud's phenomenon as part of scleroderma, 0.02
+raynaud's phenomenon secondary to a connective tissue disease, 0.02
+raynaud's phenomenon secondary to an autoimmune condition, 0.06
+raynaud's phenomenon secondary to an autoimmune disease, 0.04
+raynaud's phenomenon secondary to an autoimmune disorder, 0.12
+raynaud's phenomenon secondary to an underlying condition, 0.04
+raynaud's phenomenon secondary to another autoimmune condition, 0.08
+raynaud's phenomenon secondary to another autoimmune disorder, 0.02
+raynaud's phenomenon secondary to another condition, 0.22
+raynaud's phenomenon secondary to another connective tissue disorder, 0.04
+raynaud's phenomenon secondary to autoimmune disease, 0.02
+raynaud's phenomenon secondary to autoimmune disorder, 0.04
+raynaud's phenomenon secondary to connective tissue disease, 0.16
+raynaud's phenomenon secondary to connective tissue disorder, 0.02
+raynaud's phenomenon secondary to other connective tissue disease, 0.02
+raynaud's phenomenon with associated autoimmune disorder, 0.02
+raynaud's phenomenon with associated connective tissue disorder, 0.02
+raynaud's phenomenon with complications, 0.02
+raynaud's phenomenon with connective tissue disease, 0.02
+raynaud's phenomenon with connective tissue disorder, 0.02
+raynaud's phenomenon with overlap syndrome, 0.02
+raynaud's phenomenon with secondary autoimmune condition, 0.02
+raynaud's phenomenon with secondary cause, 0.12
+raynaud's phenomenon with secondary causes, 0.16
+raynaud's phenomenon with secondary complications, 0.04
+raynaud's phenomenon with secondary connective tissue disease, 0.12
+raynaud's phenomenon with secondary connective tissue disorder, 0.02
+raynaud's phenomenon with secondary hypertension, 0.02
+raynaud's phenomenon with secondary scleroderma, 0.06
+raynaud's phenomenon with secondary sclerosis, 0.02
+raynaud's phenomenon with secondary sjögren's syndrome, 0.02
+raynaud's phenomenon with systemic involvement, 0.02
+raynaud's phenomenon with underlying cause, 0.02
+raynaud's phenomenon with underlying connective tissue disease, 0.02
+raynaud's syndrome, 0.02
+raynaud’s phenomenon secondary to another condition, 0.02
+raynaud’s phenomenon with secondary connective tissue disease, 0.02
+reye's syndrome, 0.02
+rheumatic fever, 4.04
+rheumatoid arthritis, 0.58
+rheumatoid arthritis (juvenile form), 0.06
+rheumatoid arthritis (juvenile idiopathic arthritis subtype), 0.04
+rheumatoid arthritis (juvenile idiopathic arthritis), 0.14
+rheumatoid arthritis (juvenile), 0.02
+rheumatoid arthritis (with systemic involvement), 0.02
+rheumatoid arthritis with complications, 0.04
+rheumatoid arthritis with extra-articular manifestations, 0.06
+rheumatoid arthritis with lung involvement, 0.02
+rheumatoid arthritis with raynaud's, 0.02
+rheumatoid arthritis with raynaud's phenomenon, 0.02
+rheumatoid arthritis with secondary raynaud's, 0.04
+rheumatoid arthritis with secondary sjögren's, 0.02
+rheumatoid arthritis with secondary sjögren's syndrome, 0.04
+rheumatoid arthritis with systemic involvement, 0.12
+rheumatoid arthritis with vasculitis, 0.04
+sarcoidosis, 2.2
+scleroderma, 3.42
+scleroderma (juvenile localized), 0.02
+scleroderma (juvenile systemic sclerosis), 0.34
+scleroderma (juvenile), 0.02
+scleroderma (localized or systemic), 0.04
+scleroderma (localized), 0.02
+scleroderma (localized/linear), 0.02
+scleroderma (pediatric), 0.04
+scleroderma (systemic sclerosis), 0.72
+scleroderma-like esophageal dysmotility, 0.02
+sepsis, 0.02
+sickle cell disease, 0.02
+sjogren's syndrome, 0.06
+sjögren's syndrome, 7.01
+sjögren's syndrome with overlap features, 0.02
+sjögren’s syndrome, 0.46
+still's disease, 0.04
+still's disease (systemic juvenile idiopathic arthritis), 0.02
+systemic juvenile idiopathic arthritis, 0.14
+systemic juvenile idiopathic arthritis (sjia), 0.5
+systemic juvenile idiopathic arthritis (still's disease), 0.02
+systemic lupus erythematosus, 0.48
+systemic lupus erythematosus (juvenile), 0.02
+systemic lupus erythematosus (sle), 12.54
+systemic scleroderma, 0.06
+systemic sclerosis, 0.02
+systemic sclerosis (juvenile scleroderma), 0.22
+systemic sclerosis (juvenile), 0.06
+systemic sclerosis (pediatric scleroderma), 0.02
+systemic sclerosis (scleroderma), 6.45
+tetralogy of fallot, 0.04
+vasculitis, 0.24
+vasculitis (e.g., granulomatosis with polyangiitis), 0.02
+vasculitis (e.g., henoch-schönlein purpura), 0.02
+vasculitis (e.g., kawasaki disease), 0.04
+vasculitis (e.g., kawasaki disease, henoch-schönlein purpura), 0.02
+vasculitis (e.g., polyarteritis nodosa), 0.06
+viral exanthem, 0.04
+viral hepatitis, 0.16
+viral infection, 0.04
+viral infection (e.g., epstein-barr virus), 0.1
+viral infection (e.g., infectious mononucleosis), 0.02
+viral infection (e.g., parvovirus b19), 0.04
+viral infection (such as epstein-barr virus), 0.02
+viral infection with autoimmune features, 0.02
+viral meningitis with associated autoimmune response, 0.02
+viral myocarditis, 0.08
+wegener's granulomatosis (granulomatosis with polyangiitis), 0.02
+wilson's disease, 0.12
+wilson’s disease, 0.02
+xerostomia, 0.02

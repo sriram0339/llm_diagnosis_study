@@ -1,0 +1,199 @@
+ Diagnosis, Precentage in Top Five
+acute epstein-barr virus infection (mononucleosis), 0.02
+acute lymphoblastic leukemia (all), 0.2
+acute rheumatic fever, 0.12
+addison's disease, 0.06
+adrenal insufficiency (addison's disease), 0.02
+allergic reaction, 0.24
+allergic reaction (such as to medication or environmental factors), 0.02
+allergic reaction or atopic dermatitis, 0.02
+allergic reaction or contact dermatitis, 0.08
+allergic reaction or dermatitis, 0.08
+amyloidosis, 0.02
+amyopathic dermatomyositis, 0.02
+anemia, 0.16
+anorexia nervosa, 0.06
+asthma, 0.02
+atopic dermatitis, 0.08
+atopic dermatitis (eczema), 0.04
+atopic dermatitis with myopathy, 0.02
+atopic dermatitis with secondary infection, 0.02
+celiac disease, 0.9
+chronic fatigue syndrome, 0.04
+chronic inflammatory demyelinating polyneuropathy (cidp), 0.02
+chronic kidney disease, 0.02
+congenital myasthenic syndrome, 0.02
+congenital myasthenic syndromes, 0.02
+congenital myopathy, 0.02
+contact dermatitis, 0.04
+cushing's syndrome, 0.44
+cutaneous porphyria, 0.02
+cyanotic congenital heart disease, 0.02
+dermatomyositis, 1.38
+dermatomyositis-like drug reaction, 0.02
+duchenne muscular dystrophy, 0.02
+eczema, 0.02
+eczema with neuromuscular disorder, 0.02
+ehlers-danlos syndrome, 0.6
+ehlers-danlos syndrome (eds), 0.02
+eosinophilic esophagitis, 0.16
+eosinophilic fasciitis, 0.02
+erythema infectiosum (fifth disease), 0.04
+erythema multiforme, 0.4
+erythropoietic protoporphyria, 0.06
+esophageal dysphagia, 0.04
+esophageal stricture, 0.04
+fibromyalgia, 0.02
+fifth disease (erythema infectiosum), 0.1
+fifth disease (parvovirus b19 infection), 0.16
+fifth disease (parvovirus b19), 0.04
+gastroesophageal reflux disease (gerd), 0.02
+guillain-barré syndrome, 0.02
+henoch-schönlein purpura, 1.72
+henoch-schönlein purpura (hsp), 2.38
+henoch-schönlein purpura (iga vasculitis), 0.06
+hyper-igd syndrome, 0.02
+hyperthyroidism, 0.02
+hypokalemic periodic paralysis, 0.02
+hypothyroidism, 4.54
+infectious mononucleosis, 0.48
+infective endocarditis, 0.06
+inflammatory bowel disease (ibd), 0.02
+iron deficiency anemia, 0.14
+iron-deficiency anemia, 0.02
+juvenile arthritis, 0.02
+juvenile dermatomyositis, 18.01
+juvenile dermatomyositis (jdm), 0.08
+juvenile idiopathic arthritis, 1.62
+juvenile idiopathic arthritis (jia), 2.52
+juvenile idiopathic arthritis (jia) with systemic features, 0.02
+juvenile idiopathic arthritis (jia) with systemic involvement, 0.02
+juvenile idiopathic arthritis (jia) with systemic onset, 0.12
+juvenile idiopathic arthritis (systemic onset), 0.04
+juvenile idiopathic arthritis (with systemic onset), 0.06
+juvenile idiopathic arthritis with systemic features, 0.04
+juvenile myasthenia gravis, 0.04
+juvenile rheumatoid arthritis, 0.04
+juvenile rheumatoid arthritis (jra), 0.06
+juvenile systemic lupus erythematosus (jsle), 0.02
+kawasaki disease, 6.63
+langerhans cell histiocytosis, 0.08
+leukemia, 0.52
+lichen planus, 0.02
+localized scleroderma, 0.04
+localized scleroderma (morphea), 0.02
+lupus (systemic lupus erythematosus), 0.48
+lupus erythematosus, 0.06
+lyme disease, 0.4
+lymphadenitis, 0.02
+lymphatic obstruction or lymphadenopathy, 0.02
+lymphoma, 0.42
+malabsorption syndrome (e.g., celiac disease), 0.02
+malnutrition, 0.02
+malnutrition or chronic illness, 0.02
+mitochondrial myopathy, 0.02
+mixed connective tissue disease, 9.87
+mixed connective tissue disease (mctd), 3.46
+mononucleosis, 0.02
+muscular dystrophy, 0.5
+myasthenia gravis, 0.4
+nutritional deficiency (e.g., vitamin c deficiency or scurvy), 0.02
+nutritional deficiency (e.g., vitamin c or d), 0.02
+nutritional deficiency (e.g., vitamin d or c), 0.02
+nutritional deficiency (such as vitamin c deficiency), 0.02
+nutritional deficiency or malnutrition, 0.02
+paraneoplastic syndrome, 0.02
+parvovirus b19 infection, 0.02
+parvovirus b19 infection (fifth disease), 0.1
+pediatric allergic reaction, 0.02
+pediatric lupus, 0.02
+pediatric mixed connective tissue disease, 0.02
+pediatric rheumatoid arthritis, 0.02
+pediatric systemic lupus erythematosus (psle), 0.02
+pediatric vasculitis, 0.06
+peptic ulcer disease, 0.02
+photosensitive eczema, 0.02
+photosensitivity dermatitis, 0.04
+photosensitivity due to medication or chemical exposure, 0.02
+photosensitivity-related dermatitis, 0.02
+polyarteritis nodosa, 0.04
+polyarticular juvenile idiopathic arthritis, 0.02
+polymorphic light eruption, 0.02
+polymorphous light eruption, 0.04
+polymyositis, 4.46
+porphyria, 0.06
+psoriasis, 0.12
+psoriasis or psoriatic arthritis, 0.02
+psoriasis with psoriatic arthritis, 0.02
+psoriasis with secondary myopathy, 0.02
+psoriatic arthritis, 0.7
+psoriatic juvenile idiopathic arthritis, 0.04
+raynaud's disease, 0.04
+raynaud's phenomenon, 1.24
+raynaud's phenomenon associated with an autoimmune condition, 0.02
+raynaud's phenomenon secondary to a connective tissue disorder, 0.02
+raynaud's phenomenon secondary to an autoimmune condition, 0.04
+raynaud's phenomenon secondary to another autoimmune condition, 0.02
+raynaud's phenomenon secondary to another condition, 0.02
+raynaud's phenomenon secondary to autoimmune disease, 0.04
+raynaud's phenomenon secondary to autoimmune disorder, 0.02
+raynaud's phenomenon secondary to connective tissue disease, 0.04
+raynaud's phenomenon with connective tissue disorder, 0.02
+raynaud's phenomenon with secondary cause, 0.02
+raynaud's phenomenon with secondary connective tissue disorder, 0.02
+raynaud’s disease, 0.02
+reactive arthritis, 0.02
+rheumatic fever, 2.32
+rheumatoid arthritis, 0.5
+rheumatoid arthritis (juvenile form), 0.06
+rheumatoid arthritis (juvenile idiopathic arthritis - jia), 0.02
+rheumatoid arthritis (juvenile idiopathic arthritis), 0.26
+rheumatoid arthritis (juvenile), 0.08
+rheumatoid arthritis with skin manifestations, 0.02
+sarcoidosis, 0.1
+scarlet fever, 0.3
+scleroderma, 2.8
+scleroderma (juvenile systemic sclerosis), 0.02
+scleroderma (localized or systemic), 0.02
+scleroderma (localized), 0.02
+scleroderma (systemic sclerosis), 0.02
+scorbutic (vitamin c deficiency), 0.02
+scurvy, 0.1
+scurvy (vitamin c deficiency), 0.02
+sjogren's syndrome, 0.02
+sjögren's syndrome, 1.08
+sjögren’s syndrome, 0.06
+spinal muscular atrophy, 0.02
+staphylococcal scalded skin syndrome (ssss), 0.04
+still's disease (a form of systemic jia), 0.02
+strep throat with scarlet fever, 0.02
+systemic juvenile idiopathic arthritis, 0.48
+systemic juvenile idiopathic arthritis (sjia), 0.24
+systemic lupus erythematosus, 1.18
+systemic lupus erythematosus (sle), 18.05
+systemic sclerosis, 0.02
+systemic sclerosis (scleroderma), 0.02
+thyroid dysfunction (e.g., hashimoto's thyroiditis), 0.02
+vasculitis, 0.24
+viral exanthem, 0.58
+viral exanthem with arthritis, 0.02
+viral exanthem with myositis, 0.1
+viral exanthema, 0.26
+viral exanthema (e.g., parvovirus b19), 0.02
+viral exanthema with myositis, 0.02
+viral infection (e.g., ebv or parvovirus), 0.02
+viral infection (e.g., epstein-barr virus or cytomegalovirus), 0.02
+viral infection (e.g., epstein-barr virus), 0.2
+viral infection (e.g., parvovirus b19), 0.02
+viral infection with autoimmune features, 0.04
+viral infection with complications, 0.02
+viral infection with dermatitis, 0.02
+viral infection with myositis, 0.04
+viral infection with raynaud's phenomenon, 0.02
+viral infection with reactive arthritis, 0.02
+viral myositis, 0.66
+vitamin b12 deficiency, 0.02
+vitamin c deficiency (scurvy), 0.22
+vitamin d deficiency, 0.36
+vitamin deficiency (e.g., vitamin c or d), 0.02
+wilson's disease, 0.02

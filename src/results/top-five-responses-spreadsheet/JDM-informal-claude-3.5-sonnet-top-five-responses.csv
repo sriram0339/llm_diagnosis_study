@@ -1,0 +1,147 @@
+ Diagnosis, Precentage in Top Five
+acute lymphoblastic leukemia, 0.18
+acute lymphoblastic leukemia (all), 0.1
+acute rheumatic fever, 0.32
+addison's disease, 0.06
+allergic contact dermatitis, 0.08
+allergic reaction/anaphylaxis, 0.04
+allergic reaction/angioedema, 0.02
+allergic reaction/atopic dermatitis, 0.02
+allergic reaction/drug reaction, 0.02
+allergic response/atopic dermatitis, 0.02
+aplastic anemia, 0.02
+celiac disease, 0.48
+childhood leukemia, 0.02
+chronic active epstein-barr virus infection, 0.04
+chronic fatigue syndrome, 0.42
+contact dermatitis, 0.02
+contact dermatitis with concurrent viral myositis, 0.02
+contact dermatitis with secondary complications, 0.02
+cushing's syndrome, 0.14
+dermatomyositis, 0.44
+dermatomyositis secondary to malignancy, 0.02
+drug-induced lupus, 0.02
+duchenne muscular dystrophy, 0.06
+eczema with secondary infection, 0.04
+ehlers-danlos syndrome, 0.02
+eosinophilic esophagitis, 0.1
+eosinophilic fasciitis, 0.08
+epstein-barr virus (mononucleosis), 0.02
+epstein-barr virus infection, 0.04
+erythema multiforme, 0.02
+exercise-induced asthma, 0.06
+fibromyalgia, 0.1
+fifth disease (parvovirus b19), 0.06
+gastrointestinal bleeding, 0.02
+granulomatosis with polyangiitis, 0.02
+graves' disease, 0.04
+group a streptococcal infection, 0.02
+growing pains, 0.02
+growing pains syndrome, 0.04
+guillain-barré syndrome, 0.26
+hand, foot, and mouth disease, 0.04
+hand-foot-and-mouth disease, 0.02
+hand-foot-mouth disease, 0.02
+henoch-schönlein purpura, 0.24
+henoch-schönlein purpura (hsp), 0.16
+hodgkin's lymphoma, 0.04
+hypothyroidism, 0.44
+infectious mononucleosis, 0.44
+inflammatory bowel disease, 0.24
+inflammatory bowel disease with extra-intestinal manifestations, 0.02
+iron deficiency anemia, 0.34
+juvenile dermatomyositis, 19.17
+juvenile idiopathic arthritis, 1.4
+juvenile idiopathic arthritis (jia), 0.44
+juvenile idiopathic arthritis (systemic type), 0.02
+juvenile idiopathic arthritis (systemic), 0.02
+juvenile rheumatoid arthritis, 2.94
+juvenile rheumatoid arthritis (jra), 0.28
+juvenile scleroderma, 0.02
+juvenile systemic lupus erythematosus (jsle), 0.68
+kawasaki disease, 1.96
+leukemia, 0.1
+lyme disease, 1.38
+lymphoma, 0.2
+mixed connective tissue disease, 17.17
+mononucleosis, 0.02
+mononucleosis (epstein-barr virus), 0.02
+multiple sclerosis, 0.02
+multiple sclerosis (ms), 0.02
+muscular dystrophy, 0.56
+myasthenia gravis, 0.3
+nutritional deficiency, 0.04
+nutritional deficiency (vitamin c/b12), 0.04
+nutritional deficiency (vitamin d/b12), 0.02
+pediatric chronic fatigue syndrome, 0.04
+pediatric myasthenia gravis, 0.02
+pediatric scleroderma, 0.02
+polyarteritis nodosa, 0.06
+polyarticular juvenile idiopathic arthritis, 0.24
+polymorphic light eruption, 0.04
+polymyositis, 13.72
+post-streptococcal reactive arthritis, 0.02
+post-viral myositis, 0.02
+post-viral syndrome, 0.02
+raynaud's disease, 0.04
+raynaud's disease with associated autoimmune condition, 0.02
+raynaud's disease with scleroderma, 0.02
+raynaud's disease with secondary autoimmune condition, 0.02
+raynaud's disease with secondary complications, 0.02
+raynaud's disease with secondary condition, 0.02
+raynaud's disease with secondary infection, 0.02
+raynaud's disease/phenomenon, 0.04
+raynaud's phenomenon, 0.16
+raynaud's phenomenon with scleroderma, 0.02
+reactive arthritis, 0.1
+rheumatic fever, 0.66
+rheumatoid arthritis (juvenile), 0.28
+scarlet fever, 0.02
+scleroderma, 6.93
+scleroderma (juvenile), 0.18
+spinal muscular atrophy, 0.04
+strep throat with scarlet fever, 0.04
+streptococcal infection, 0.08
+streptococcal infection with post-streptococcal reaction, 0.02
+streptococcal infection with post-streptococcal reactive arthritis, 0.02
+streptococcal pharyngitis, 0.02
+streptococcal pharyngitis with complications, 0.02
+streptococcal pharyngitis with post-strep syndrome, 0.02
+streptococcal pharyngitis with post-streptococcal syndrome, 0.04
+streptococcal pharyngitis with scarlet fever, 0.04
+systemic juvenile idiopathic arthritis, 0.24
+systemic lupus erythematosus, 9.59
+systemic lupus erythematosus (juvenile), 0.88
+systemic lupus erythematosus (sle), 8.65
+systemic scleroderma, 0.2
+systemic sclerosis, 0.02
+systemic vasculitis, 0.02
+thyroid disease, 0.04
+vasculitis, 0.06
+vasculitis (e.g., henoch-schönlein purpura), 0.04
+vasculitis (such as henoch-schönlein purpura), 0.04
+viral exanthem, 0.04
+viral exanthem (e.g., coxsackie virus), 0.02
+viral exanthem with concurrent pharyngitis, 0.02
+viral exanthem with lymphadenopathy, 0.02
+viral exanthem with myositis, 0.26
+viral exanthem with post-viral fatigue, 0.02
+viral exanthem with reactive arthritis, 0.12
+viral exanthem with reactive lymphadenopathy, 0.02
+viral infection (coxsackie virus), 0.02
+viral infection (e.g., epstein-barr virus), 0.32
+viral infection (e.g., epstein-barr), 0.04
+viral infection with allergic reaction, 0.02
+viral infection with post-viral syndrome, 0.06
+viral myocarditis, 0.04
+viral myositis, 2.88
+viral myositis (e.g., coxsackie virus), 0.02
+viral myositis with associated rash, 0.04
+viral myositis with rash, 0.02
+viral myositis with secondary rash, 0.04
+viral myositis with vasculitis, 0.02
+viral upper respiratory infection with secondary skin manifestations, 0.02
+vitamin b12 deficiency, 0.08
+vitamin c deficiency (scurvy), 0.06
+vitamin d deficiency, 0.46
+vitamin d deficiency myopathy, 0.02

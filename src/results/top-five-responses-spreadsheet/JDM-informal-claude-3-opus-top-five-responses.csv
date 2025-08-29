@@ -1,0 +1,128 @@
+ Diagnosis, Precentage in Top Five
+acute cutaneous lupus erythematosus, 0.04
+acute lymphoblastic leukemia, 0.12
+acute lymphoblastic leukemia (all), 0.04
+acute rheumatic fever, 0.7
+acute viral infection, 0.02
+allergic contact dermatitis, 0.1
+allergic reaction, 1.34
+anemia, 0.54
+asthma, 0.12
+celiac disease, 2.1
+chronic fatigue syndrome, 0.12
+crohn's disease, 0.2
+cushing's syndrome, 0.02
+deconditioning, 0.02
+dermatomyositis, 3.38
+drug hypersensitivity reaction, 0.02
+eczema, 0.02
+ehlers-danlos syndrome, 0.02
+ehlers-danlos syndrome (eds), 0.02
+electrolyte imbalance, 0.02
+eosinophilic esophagitis, 0.14
+erythema multiforme, 0.24
+esophageal dysmotility disorder, 0.02
+esophageal dysphagia, 0.02
+esophageal stricture or achalasia, 0.02
+gastroesophageal reflux disease (gerd), 0.02
+guillain-barré syndrome, 0.04
+guillain-barré syndrome (gbs), 0.02
+henoch-schönlein purpura, 0.16
+henoch-schönlein purpura (hsp), 0.74
+hypothyroidism, 0.42
+infectious disease, 0.02
+infectious mononucleosis, 0.34
+infectious mononucleosis (mono), 0.02
+infectious myositis, 0.02
+inflammatory bowel disease, 0.1
+inflammatory bowel disease (crohn's or ulcerative colitis), 0.02
+inflammatory bowel disease (ibd), 0.82
+influenza, 0.02
+iron deficiency anemia, 0.78
+juvenile ankylosing spondylitis, 0.04
+juvenile dermatomyositis, 16.83
+juvenile dermatomyositis (jdm), 0.02
+juvenile dermatomyositis with overlap syndrome, 0.04
+juvenile dermatomyositis with vasculitis, 0.02
+juvenile fibromyalgia, 0.02
+juvenile idiopathic arthritis, 7.34
+juvenile idiopathic arthritis (jia), 12.05
+juvenile myositis, 0.04
+juvenile polymyositis, 0.9
+juvenile psoriasis, 0.06
+juvenile psoriatic arthritis, 0.16
+juvenile rheumatoid arthritis, 0.7
+juvenile rheumatoid arthritis (jra), 0.7
+juvenile sarcoidosis, 0.02
+juvenile scleroderma, 1.38
+juvenile systemic sclerosis, 0.02
+kawasaki disease, 5.74
+leukemia, 2.68
+lichen planus, 0.04
+lupus, 0.38
+lupus (systemic lupus erythematosus), 0.08
+lupus erythematosus, 0.46
+lupus erythematosus (systemic lupus erythematosus or sle), 0.02
+lyme disease, 2.2
+lymphoma, 1.4
+malignancy, 0.74
+malignancy (e.g., leukemia or lymphoma), 0.04
+malignancy (e.g., leukemia, lymphoma), 0.04
+malignancy (e.g., lymphoma), 0.04
+malignancy (leukemia or lymphoma), 0.02
+malnutrition, 0.06
+malnutrition or eating disorder, 0.02
+meningitis, 0.02
+meningococcal meningitis, 0.04
+mixed connective tissue disease, 0.72
+mixed connective tissue disease (mctd), 1.84
+mononucleosis, 0.02
+muscular dystrophy, 0.06
+myasthenia gravis, 0.02
+myositis, 0.02
+neurological disorder, 0.02
+nutritional deficiency, 0.08
+photosensitive dermatitis, 0.08
+photosensitive disorder, 0.02
+photosensitive drug reaction, 0.02
+polyarteritis nodosa, 0.02
+polymorphous light eruption, 0.02
+polymyositis, 0.34
+psoriatic arthritis, 0.04
+raynaud's phenomenon, 0.58
+reactive arthritis, 0.04
+respiratory infection, 0.2
+rheumatic fever, 0.2
+sarcoidosis, 0.4
+scleroderma, 1.22
+sepsis, 0.02
+septic arthritis, 0.04
+serum sickness, 0.08
+sickle cell disease, 0.04
+sjogren's syndrome, 0.02
+sjögren's syndrome, 0.04
+streptococcal infection, 0.02
+streptococcal pharyngitis, 0.08
+systemic lupus erythematosus, 0.76
+systemic lupus erythematosus (sle), 17.39
+thalassemia, 0.02
+throat infection/strep throat, 0.02
+thyroid disorder, 0.22
+thyroid disorder (e.g., hypothyroidism), 0.02
+trauma/abuse, 0.02
+tuberculosis, 0.02
+vasculitis, 4.7
+viral exanthem, 0.54
+viral exanthem (e.g., measles, rubella), 0.12
+viral exanthem (e.g., parvovirus b19), 0.04
+viral infection, 1.08
+viral infection (e.g., epstein-barr virus, cytomegalovirus), 0.1
+viral infection (e.g., epstein-barr virus, influenza), 0.02
+viral infection (e.g., influenza, epstein-barr virus), 0.02
+viral myositis, 0.06
+viral respiratory infection, 0.02
+vitamin c deficiency (scurvy), 0.04
+vitamin d deficiency, 0.74
+vitamin deficiency, 0.34
+vitamin deficiency (e.g., vitamin c), 0.02
+vitamin deficiency (e.g., vitamin c, iron), 0.02

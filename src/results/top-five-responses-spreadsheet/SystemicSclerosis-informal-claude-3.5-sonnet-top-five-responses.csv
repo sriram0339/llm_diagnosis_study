@@ -1,0 +1,167 @@
+ Diagnosis, Precentage in Top Five
+achalasia, 0.14
+acrocyanosis, 0.02
+anemia, 0.22
+anxiety, 0.12
+anxiety disorder, 0.48
+anxiety-induced hyperventilation, 0.02
+anxiety-related dysphagia, 0.06
+arterial insufficiency, 0.14
+arterial occlusive disease, 0.22
+arterial thrombosis, 0.02
+asthma, 0.08
+asthma with joint hypermobility syndrome, 0.02
+buerger's disease, 0.4
+burns (first or second degree), 0.12
+calcinosis cutis, 0.02
+celiac disease, 0.22
+cellulitis, 0.12
+chilblains, 0.28
+chilblains (pernio), 0.02
+chronic fatigue syndrome, 0.04
+cold agglutinin disease, 0.02
+cold exposure, 0.2
+cold exposure/frostbite, 0.04
+cold urticaria, 0.08
+congenital heart disease, 0.18
+connective tissue disease, 0.08
+constitutional growth delay, 0.22
+contact dermatitis, 0.58
+crest syndrome, 0.06
+cyanotic congenital heart disease, 0.1
+cyanotic heart disease, 0.28
+deconditioning/poor physical fitness, 0.02
+dermatofibroma, 0.08
+dermatomyositis, 2.82
+diabetic cheiroarthropathy, 0.04
+diabetic scleredema, 0.08
+dupuytren's contracture, 0.16
+dysphagia, 0.08
+early-onset fibromyalgia, 0.02
+eczema, 0.32
+eczema (acute phase), 0.14
+eczema (atopic dermatitis), 0.18
+eosinophilic esophagitis, 1.2
+eosinophilic fasciitis, 4.46
+epidermoid cyst, 0.06
+esophageal achalasia, 0.02
+esophageal dysmotility, 0.04
+esophageal motility disorder, 0.04
+esophageal stricture, 0.1
+exercise-induced asthma, 0.24
+exercise-induced asthma with deconditioning, 0.02
+exercise-induced asthma with eczema, 0.02
+exercise-induced bronchospasm, 0.02
+fibromyalgia, 0.64
+foreign body aspiration, 0.02
+foreign body granuloma, 0.02
+foreign body granulomas, 0.02
+foreign body obstruction, 0.02
+frostbite, 1.66
+ganglion cysts, 0.04
+gastroesophageal reflux disease (gerd), 0.24
+gerd (gastroesophageal reflux disease), 0.1
+gerd with anxiety, 0.14
+gerd with complications, 0.02
+gerd with dermatological manifestations, 0.02
+gerd with eosinophilic esophagitis, 0.02
+gerd with esophagitis, 0.02
+gerd with joint hypermobility syndrome, 0.02
+graft-versus-host disease, 1.82
+growing pains, 0.36
+growth hormone deficiency, 0.24
+growth-related joint pain, 0.02
+growth-related musculoskeletal pain, 0.02
+gvhd (graft versus host disease), 0.02
+henoch-schönlein purpura, 0.02
+hypermobility syndrome, 0.06
+hypothermia, 0.5
+hypothyroidism, 2.78
+ichthyosis, 0.06
+iron deficiency anemia, 0.08
+iron-deficiency anemia, 0.02
+juvenile arthritis, 0.02
+juvenile dermatomyositis, 5.57
+juvenile fibromyalgia, 0.14
+juvenile idiopathic arthritis, 0.24
+juvenile idiopathic arthritis (jia), 0.1
+juvenile localized scleroderma, 0.04
+juvenile morphea, 0.04
+juvenile rheumatoid arthritis, 1.88
+juvenile rheumatoid arthritis (jra), 0.04
+juvenile scleroderma, 0.4
+juvenile systemic scleroderma, 0.84
+juvenile systemic sclerosis, 0.48
+juvenile xanthogranuloma, 0.04
+keloid formation, 0.08
+keloids, 0.04
+linear morphea, 0.38
+linear scleroderma, 0.14
+linear scleroderma (morphea), 0.12
+lipoma, 0.16
+localized scleroderma (morphea), 0.06
+lupus, 6.11
+lupus (sle), 0.86
+lupus (systemic lupus erythematosus), 0.2
+lupus erythematosus, 0.16
+lyme disease, 0.22
+lymph node enlargement, 0.04
+lymphadenopathy, 0.02
+malnutrition, 0.06
+methemoglobinemia, 0.22
+mixed connective tissue disease, 13.4
+molluscum contagiosum, 0.04
+morphea, 3.48
+morphea (localized scleroderma), 0.82
+muscular dystrophy, 0.02
+myasthenia gravis, 0.08
+neurofibromatosis type 1, 0.04
+neurological disorder, 0.02
+nutritional deficiency, 0.22
+overuse injury, 0.02
+panniculitis, 0.12
+pediatric anxiety disorder, 0.02
+peripheral arterial disease, 0.24
+peripheral cyanosis, 0.4
+peripheral nerve compression, 0.04
+peripheral neuropathy, 0.16
+peripheral vascular disease, 0.4
+pilomatricoma, 0.04
+polymyositis, 0.56
+poor circulation, 0.16
+poor circulation (peripheral vascular disease), 0.12
+poor circulation/peripheral vascular disease, 0.46
+post-viral arthritis, 0.02
+post-viral myalgia, 0.08
+primary pulmonary hypertension, 0.08
+psychosomatic pain, 0.02
+pulmonary arterial hypertension, 0.06
+pulmonary hypertension, 0.08
+radiation-induced fibrosis, 0.02
+raynaud's disease, 1.76
+raynaud's disease (primary), 4.04
+raynaud's phenomenon, 8.25
+reactive arthritis, 0.06
+rheumatic fever, 0.08
+rheumatoid arthritis (juvenile), 0.22
+scleredema, 0.08
+scleroderma, 11.16
+scleroderma (localized/morphea), 0.22
+scleroderma (systemic sclerosis), 0.7
+severe asthma, 0.02
+severe asthma with hypoxemia, 0.02
+sjögren's syndrome, 0.02
+subcutaneous fat necrosis, 0.04
+subcutaneous granuloma annulare, 0.06
+systemic lupus erythematosus, 1.9
+systemic lupus erythematosus (sle), 0.5
+systemic scleroderma, 4.1
+systemic sclerosis, 0.8
+systemic sclerosis (scleroderma), 0.1
+trigger finger, 0.08
+turner syndrome, 0.22
+viral myositis, 0.02
+vitamin b12 deficiency, 1.16
+vitamin d deficiency, 0.52
+vocal cord dysfunction, 0.04
+xanthoma, 0.02

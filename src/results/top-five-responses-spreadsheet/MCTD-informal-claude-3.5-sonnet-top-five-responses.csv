@@ -1,0 +1,152 @@
+ Diagnosis, Precentage in Top Five
+acute post-streptococcal glomerulonephritis, 0.02
+acute rheumatic fever, 0.18
+alpha-1 antitrypsin deficiency, 0.04
+antiphospholipid syndrome, 0.02
+anxiety disorder, 0.1
+anxiety disorder with somatic symptoms, 0.04
+autoimmune hepatitis, 0.04
+bacterial meningitis, 0.06
+bacterial meningitis with complications, 0.04
+beta thalassemia major, 0.02
+buerger's disease, 0.04
+childhood-onset lupus, 0.02
+childhood-onset scleroderma, 0.02
+chronic active hepatitis, 0.04
+chronic graft-versus-host disease, 0.02
+chronic kidney disease, 0.04
+chronic kidney disease (ckd), 0.02
+chronic liver disease, 0.02
+chronic viral hepatitis, 0.02
+congenital heart disease, 0.14
+costochondritis, 0.02
+cyanotic congenital heart defect, 0.02
+cyanotic congenital heart disease, 0.02
+cystic fibrosis, 0.1
+dehydration, 0.06
+dehydration with underlying infection, 0.02
+dermatomyositis, 0.48
+diabetes mellitus, 0.02
+dysphagia, 0.04
+ehlers-danlos syndrome, 0.02
+endocarditis, 0.08
+eosinophilic esophagitis, 1.12
+eosinophilic fasciitis, 0.4
+eosinophilic granulomatosis with polyangiitis, 0.04
+eosinophilic granulomatosis with polyangiitis (egpa), 0.02
+esophageal dysmotility, 0.08
+fibromyalgia, 0.26
+gastroesophageal reflux disease (gerd), 0.18
+gaucher disease, 0.04
+glycogen storage disease, 0.16
+glycogen storage disease type ii (pompe disease), 0.04
+glycogen storage disease type iii, 0.04
+glycogen storage disease type iv, 0.04
+graft-versus-host disease, 0.06
+granulomatosis with polyangiitis, 0.02
+hemochromatosis, 0.02
+hemolytic anemia, 0.02
+hemophagocytic lymphohistiocytosis (hlh), 0.04
+henoch-schönlein purpura (hsp), 0.08
+hypothyroidism, 0.12
+infectious mononucleosis, 0.16
+interstitial lung disease, 0.02
+juvenile dermatomyositis, 12.14
+juvenile idiopathic arthritis, 1.86
+juvenile idiopathic arthritis (jia), 5.23
+juvenile idiopathic arthritis (systemic onset), 2.42
+juvenile idiopathic arthritis (systemic-onset), 0.1
+juvenile lupus, 0.04
+juvenile lupus (systemic lupus erythematosus), 0.24
+juvenile rheumatoid arthritis, 3.62
+juvenile rheumatoid arthritis (jra), 0.86
+juvenile rheumatoid arthritis (systemic onset), 0.22
+juvenile rheumatoid arthritis (with systemic onset), 0.02
+juvenile scleroderma, 0.9
+juvenile sjögren's syndrome, 0.02
+juvenile systemic lupus erythematosus, 0.28
+juvenile systemic lupus erythematosus (jsle), 1.02
+juvenile systemic sclerosis, 6.07
+kawasaki disease, 2.36
+leukemia, 0.3
+lupus, 0.08
+lupus (systemic lupus erythematosus), 3.52
+lupus erythematosus, 0.08
+lupus nephritis, 0.08
+lyme disease, 2.8
+lyme disease (late stage), 0.02
+lyme disease (late-stage), 0.02
+lymphoma, 0.04
+meningococcal disease, 0.04
+mitochondrial disease, 0.02
+mixed connective tissue disease, 16.09
+mixed connective tissue disease (mctd), 0.12
+mucopolysaccharidosis, 0.02
+muscular dystrophy, 0.02
+nutritional deficiency (e.g., vitamin b12), 0.02
+overlap syndrome, 0.04
+pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (pandas), 0.02
+pediatric scleroderma, 0.04
+pneumonia, 0.02
+pneumonia with complications, 0.02
+pneumonia with pleural effusion, 0.02
+polyarteritis nodosa, 2.46
+polyarticular juvenile idiopathic arthritis, 0.48
+polymyositis, 0.4
+post-infectious complications, 0.02
+post-streptococcal glomerulonephritis, 0.02
+primary biliary cholangitis, 0.1
+primary pulmonary hypertension, 0.04
+primary raynaud's disease, 0.02
+primary raynaud's disease with coincidental lung and kidney issues, 0.02
+primary raynaud's disease with coincidental other symptoms, 0.02
+primary raynaud's phenomenon, 0.04
+pulmonary arterial hypertension, 0.1
+pulmonary hypertension, 0.04
+pulmonary hypertension with associated autoimmune disease, 0.02
+raynaud's disease, 0.58
+raynaud's disease (primary raynaud's phenomenon), 0.06
+raynaud's disease (primary raynaud's), 0.24
+raynaud's disease (primary), 0.02
+raynaud's disease with comorbidities, 0.02
+raynaud's disease with complications, 0.02
+raynaud's disease with secondary complications, 0.1
+raynaud's phenomenon, 0.64
+raynaud's syndrome, 1.3
+raynaud's syndrome (primary or secondary), 0.04
+raynaud's syndrome (secondary to an autoimmune disorder), 0.02
+raynaud's syndrome (with an underlying connective tissue disorder), 0.02
+raynaud's syndrome (with underlying autoimmune condition), 0.02
+raynaud's syndrome with associated autoimmune condition, 0.02
+rheumatic fever, 0.64
+rheumatoid arthritis (juvenile idiopathic arthritis), 0.02
+sarcoidosis, 0.24
+scleroderma, 4.9
+scleroderma (systemic sclerosis), 0.46
+sickle cell disease, 0.1
+sjogren's syndrome, 0.24
+sjögren's syndrome, 3.88
+strep throat with rheumatic fever, 0.02
+streptococcal infection (scarlet fever), 0.02
+streptococcal pharyngitis (strep throat), 0.06
+systemic lupus erythematosus, 0.58
+systemic lupus erythematosus (juvenile onset), 0.02
+systemic lupus erythematosus (sle), 11.68
+systemic scleroderma, 0.5
+systemic sclerosis (scleroderma), 3.48
+takayasu's arteritis, 0.02
+thyroid disorder (hyperthyroidism), 0.02
+tuberculosis, 0.02
+vasculitis (e.g., granulomatosis with polyangiitis), 0.02
+vasculitis (e.g., henoch-schönlein purpura), 0.02
+vasculitis (e.g., microscopic polyangiitis), 0.02
+vasculitis (e.g., polyarteritis nodosa), 0.1
+viral encephalitis, 0.02
+viral hepatitis, 0.02
+viral infection, 0.04
+viral infection (e.g., epstein-barr virus), 0.04
+viral infection (e.g., parvovirus b19), 0.02
+viral meningitis, 0.04
+viral myocarditis, 0.12
+viral pharyngitis, 0.02
+viral pharyngitis with reactive arthritis, 0.02

@@ -1,0 +1,232 @@
+ Diagnosis, Precentage in Top Five
+acute appendicitis, 0.04
+acute cutaneous lupus erythematosus, 0.02
+acute kidney injury, 0.02
+acute leukemia, 0.02
+acute lymphoblastic leukemia, 0.4
+acute lymphoblastic leukemia (all), 0.2
+acute myositis, 0.02
+acute osteomyelitis, 0.02
+acute rheumatic arthritis, 0.04
+acute rheumatic fever, 0.26
+addison's disease, 0.04
+allergic contact dermatitis, 0.06
+allergic reaction, 0.78
+allergic reaction or contact dermatitis, 0.02
+allergic rhinitis, 0.02
+anemia, 0.32
+angioedema, 0.02
+asthma, 0.38
+asthma exacerbation, 0.18
+atopic dermatitis, 0.02
+atopic dermatitis (eczema), 0.02
+autoimmune polyendocrine syndrome, 0.02
+celiac disease, 1.12
+cellulitis, 0.02
+chronic fatigue syndrome, 0.46
+chronic fatigue syndrome (cfs), 0.02
+chronic granulomatous disease, 0.04
+chronic granulomatous disease (cgd), 0.02
+chronic kidney disease, 0.12
+chronic myofascial pain, 0.02
+chronic obstructive pulmonary disease (copd), 0.04
+coeliac disease, 0.18
+congenital heart defect, 0.02
+congenital heart disease, 0.36
+congenital hypothyroidism, 0.02
+congenital myasthenic syndrome, 0.02
+congestive heart failure, 0.14
+constipation, 0.02
+contact dermatitis, 0.16
+coxsackievirus infection, 0.06
+cushing's syndrome, 0.12
+cutaneous leishmaniasis, 0.02
+cutaneous lupus erythematosus, 0.06
+cutaneous mastocytosis, 0.04
+cutaneous porphyrias, 0.04
+cutaneous t-cell lymphoma, 0.06
+cystic fibrosis, 0.12
+dental issues, 0.02
+dermatitis, 0.04
+dermatitis herpetiformis, 0.52
+dermatitis or eczema, 0.02
+dermatologic condition (e.g., allergic reaction, contact dermatitis), 0.02
+dermatomyositis, 2.1
+duchenne muscular dystrophy, 0.12
+eczema, 0.1
+eczema (atopic dermatitis), 0.02
+ehlers-danlos syndrome, 0.34
+eosinophilic esophagitis, 1.92
+eosinophilic fasciitis, 0.24
+eosinophilic granulomatosis with polyangiitis, 0.02
+eosinophilic granulomatosis with polyangiitis (churg-strauss syndrome), 0.04
+eosinophilic granulomatosis with polyangiitis (egpa), 0.02
+epstein-barr virus (ebv) infection, 0.02
+erythema multiforme, 0.04
+esophageal dysmotility, 0.02
+esophageal stricture, 0.12
+familial mediterranean fever, 0.02
+fifth disease (erythema infectiosum), 0.02
+fifth disease (parvovirus b19), 0.02
+food allergy, 0.1
+food impaction, 0.02
+gastroesophageal reflux disease (gerd), 0.44
+gastrointestinal (gi) disorder, 0.02
+gastrointestinal bleeding, 0.1
+gastrointestinal infection, 0.02
+gerd (gastroesophageal reflux disease), 0.06
+gingivitis, 0.02
+gingivostomatitis, 0.02
+granulomatosis with polyangiitis, 0.04
+guillain-barre syndrome, 0.34
+hand, foot and mouth disease, 0.02
+hand, foot, and mouth disease, 0.36
+hand-foot-and-mouth disease, 0.04
+hand-foot-mouth disease, 0.16
+heart condition (such as congenital heart defect), 0.02
+heart condition (such as congenital heart disease), 0.02
+heart failure, 0.22
+heat rash (prickly heat), 0.02
+hemolytic uremic syndrome, 0.02
+hemophilia, 0.02
+henoch-schonlein purpura, 0.44
+henoch-schonlein purpura (hsp), 0.12
+henoch-schönlein purpura, 0.38
+henoch-schönlein purpura (hsp), 0.22
+hirschsprung's disease, 0.06
+hsp (henoch-schonlein purpura), 0.02
+hyperthyroidism, 0.2
+hypothyroidism, 3.8
+idiopathic inflammatory myopathies, 0.02
+idiopathic thrombocytopenic purpura (itp), 0.06
+immune thrombocytopenic purpura (itp), 0.02
+impetigo, 0.02
+infection (such as viral illness), 0.02
+infectious mononucleosis, 0.3
+infectious mononucleosis (mono), 0.02
+inflammatory bowel disease, 0.1
+inflammatory bowel disease (crohn's disease or ulcerative colitis), 0.04
+inflammatory bowel disease (ibd), 0.1
+inflammatory myositis, 0.02
+influenza, 0.06
+iron deficiency anemia, 0.32
+iron-deficiency anemia, 0.02
+juvenile arthritis, 0.02
+juvenile batten disease, 0.02
+juvenile cellulitis, 0.02
+juvenile dermatomyositis, 15.35
+juvenile diabetes, 0.1
+juvenile diabetes (type 1 diabetes), 0.02
+juvenile diabetes (type 1), 0.04
+juvenile diabetes mellitus, 0.02
+juvenile hypothyroidism, 0.04
+juvenile idiopathic arthritis, 13.13
+juvenile idiopathic arthritis (jia), 1.02
+juvenile idiopathic constipation, 0.02
+juvenile idiopathic dermatomyositis, 0.02
+juvenile idiopathic fibromyalgia, 0.02
+juvenile idiopathic lymphadenopathy, 0.02
+juvenile idiopathic pulmonary fibrosis, 0.02
+juvenile idiopathic scoliosis, 0.02
+juvenile lupus, 0.08
+juvenile myasthenia gravis, 0.1
+juvenile myositis, 0.04
+juvenile onset multiple sclerosis, 0.02
+juvenile polymyositis, 0.02
+juvenile psoriatic arthritis, 0.1
+juvenile rheumatoid arthritis, 0.58
+juvenile sarcoidosis, 0.04
+juvenile scleroderma, 1.14
+juvenile sjogren's syndrome, 0.12
+juvenile sjögren's syndrome, 0.02
+juvenile spondyloarthritis, 0.04
+juvenile spondyloarthropathy, 0.02
+juvenile systemic lupus erythematosus, 0.14
+juvenile systemic scleroderma, 0.02
+juvenile systemic sclerosis, 0.2
+juvenile systemic sclerosis (scleroderma), 0.02
+kawasaki disease, 10.15
+leukemia, 0.72
+lupus, 0.78
+lyme disease, 3.06
+lymphadenitis, 0.08
+lymphadenopathy, 0.06
+lymphoma, 0.26
+malnutrition, 0.38
+marfan syndrome, 0.06
+mitochondrial disease, 0.02
+mitochondrial myopathy, 0.08
+mixed connective tissue disease, 0.02
+mixed connective tissue disease (mctd), 0.02
+monoarthritis, 0.02
+mononucleosis, 0.5
+multiple sclerosis, 0.02
+muscular dystrophy, 0.32
+myasthenia gravis, 0.28
+neurofibromatosis, 0.04
+neurofibromatosis type 1, 0.02
+neurological disorder, 0.02
+neurological disorder (e.g. brain tumor), 0.02
+neurological disorder (such as guillain-barre syndrome), 0.02
+nutritional deficiency, 0.04
+osteochondritis dissecans, 0.02
+periodontal disease, 0.02
+pharyngitis, 0.04
+photosensitivity, 0.02
+photosensitivity dermatitis, 0.04
+pneumonia, 0.06
+polymyositis, 0.16
+porphyria, 0.28
+porphyria cutanea tarda, 0.14
+psoriasis, 0.12
+psoriatic arthritis, 0.06
+raynaud's disease, 0.2
+raynaud's phenomenon, 1.42
+respiratory muscle weakness, 0.02
+rheumatic fever, 2.04
+rheumatoid arthritis, 0.72
+sarcoidosis, 0.1
+scabies, 0.04
+scarlatina (scarlet fever), 0.02
+scarlet fever, 0.7
+scleroderma, 0.34
+sepsis, 0.02
+sjogren's syndrome, 0.36
+sjögren's syndrome, 0.02
+sle-associated vasculitis, 0.02
+sle-induced lupus nephritis, 0.02
+spinal muscular atrophy, 0.02
+stevens-johnson syndrome, 0.2
+streptococcal infection, 0.08
+streptococcal pharyngitis, 0.12
+streptococcal pharyngitis (strep throat), 0.08
+systemic juvenile idiopathic arthritis, 0.46
+systemic juvenile idiopathic arthritis (sjia), 0.06
+systemic juvenile idiopathic arthritis (still's disease), 0.02
+systemic lupus erythematosus, 5.64
+systemic lupus erythematosus (sle), 12.15
+systemic scleroderma, 0.24
+systemic sclerosis, 0.8
+systemic sclerosis (scleroderma), 0.62
+systemic vasculitis, 0.02
+thrombocytopenic purpura, 0.02
+thrombophlebitis, 0.02
+thyroid disorder, 0.08
+thyroiditis, 0.02
+toxic epidermal necrolysis, 0.06
+toxic shock syndrome, 0.32
+type 1 diabetes, 0.06
+upper respiratory infection, 0.02
+vasculitis, 0.22
+viral infection, 0.08
+viral infection (e.g. coxsackievirus), 0.02
+viral upper respiratory infection, 0.02
+vitamin b12 deficiency, 0.1
+vitamin c deficiency (scurvy), 0.06
+vitamin d deficiency, 1.06
+vitamin deficiency (e.g., vitamin b12), 0.02
+vitamin deficiency (e.g., vitamin c deficiency), 0.02
+vocal cord dysfunction, 0.02
+von willebrand disease, 0.02
+xeroderma pigmentosum, 0.12
+zinc deficiency, 0.02

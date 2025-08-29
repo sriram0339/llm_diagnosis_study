@@ -1,0 +1,257 @@
+ Diagnosis, Precentage in Top Five
+achalasia, 0.36
+acrocyanosis, 1.45
+allergic reaction, 0.02
+allergic rhinitis, 0.02
+amyotrophic lateral sclerosis (als), 0.02
+anemia, 0.6
+anorexia nervosa, 0.06
+anxiety, 0.06
+anxiety disorder, 0.06
+anxiety or panic disorder, 0.02
+asthma, 0.22
+asthma with eczema, 0.02
+asthma with skin changes, 0.02
+buerger's disease, 0.2
+buerger's disease (thromboangiitis obliterans), 0.02
+calcinosis cutis, 0.08
+carpal tunnel syndrome, 0.02
+chilblains, 0.46
+chilblains (pernio), 0.36
+chilblains (perniosis), 0.1
+chronic cold exposure, 0.02
+cold agglutinin disease, 0.87
+cold exposure, 0.08
+cold urticaria, 0.04
+cold-induced asthma, 0.02
+cold-induced vasospasm, 0.12
+complex regional pain syndrome (crps), 0.1
+congenital heart defect, 0.1
+congenital heart disease, 0.26
+congenital ichthyosis, 0.02
+congenital muscular dystrophy, 0.02
+connective tissue disorder, 0.02
+connective tissue disorder (e.g., juvenile systemic sclerosis), 0.02
+connective tissue disorder (e.g., scleroderma), 0.04
+constipation, 0.02
+crest syndrome, 0.02
+crest syndrome (limited scleroderma), 0.06
+cryoglobulinemia, 0.08
+cushing's syndrome, 0.18
+cutaneous sarcoidosis, 0.02
+cyanosis due to congenital heart disease, 0.02
+cyanotic congenital heart defect, 0.02
+cyanotic congenital heart disease, 0.04
+cystic fibrosis, 0.1
+dermatofibroma, 0.02
+dermatomyositis, 1.29
+diabetes insipidus, 0.02
+diabetes mellitus, 0.06
+diabetes mellitus (type 1), 0.02
+diabetic dermopathy, 0.02
+digital ischemia, 0.02
+dupuytren's contracture, 0.02
+early-onset lupus, 0.02
+ehler-danlos syndrome, 0.02
+ehlers-danlos syndrome, 5.62
+ehlers-danlos syndrome (eds), 0.14
+ehlers-danlos syndrome (scleroderma-like variant), 0.02
+ehlers-danlos syndrome (vascular type), 0.02
+eosinophilic esophagitis, 1.59
+eosinophilic esophagitis (eoe), 0.02
+eosinophilic fasciitis, 3.01
+epidermal inclusion cysts, 0.02
+epidermoid cyst, 0.02
+epidermoid cysts, 0.06
+epidermolysis bullosa, 0.02
+erythema multiforme, 0.04
+erythema nodosum, 0.06
+erythromelalgia, 0.56
+esophageal dysmotility, 0.1
+esophageal dysphagia, 0.02
+esophageal motility disorder, 0.06
+esophageal spasm, 0.04
+esophageal stricture, 0.68
+exercise-induced bronchoconstriction, 0.02
+fibromyalgia, 0.34
+foreign body esophagus, 0.02
+foreign body impaction, 0.02
+frostbite, 0.91
+frostbite or cold exposure, 0.02
+frostbite or cold-induced injury, 0.02
+frostbite or cold-induced vasospasm, 0.02
+frostbite/cold-induced vasospasm, 0.02
+functional abdominal pain, 0.02
+gastroesophageal reflux disease (gerd), 0.22
+granuloma annulare, 0.02
+growing pains, 0.3
+growth plate injury, 0.04
+henoch-schönlein purpura (hsp), 0.02
+hypermobility syndrome, 0.04
+hyperthyroidism, 0.02
+hypothermia, 0.08
+hypothyroidism, 5.34
+ichthyosis, 0.02
+ichthyosis vulgaris, 0.04
+infection (such as cellulitis), 0.02
+iron deficiency anemia, 0.04
+juvenile arthritis, 0.02
+juvenile dermatomyositis, 5.66
+juvenile fibromyalgia, 0.08
+juvenile idiopathic arthritis, 2.1
+juvenile idiopathic arthritis (jia), 3.42
+juvenile idiopathic arthritis (jia) with raynaud's, 0.02
+juvenile idiopathic arthritis (jia) with skin involvement, 0.02
+juvenile idiopathic arthritis (jia) with systemic features, 0.04
+juvenile idiopathic arthritis (jia) with systemic involvement, 0.02
+juvenile idiopathic arthritis with systemic features, 0.02
+juvenile localized scleroderma, 0.08
+juvenile rheumatoid arthritis, 0.99
+juvenile rheumatoid arthritis (jra), 0.22
+juvenile rheumatoid arthritis (systemic), 0.02
+juvenile scleroderma, 2.08
+juvenile systemic lupus erythematosus, 0.06
+juvenile systemic lupus erythematosus (jsle), 0.04
+juvenile systemic sclerosis, 2.75
+juvenile xanthogranuloma, 0.02
+kawasaki disease, 0.06
+lichen sclerosus, 0.34
+linear morphea, 0.08
+linear scleroderma, 0.04
+lipoatrophic diabetes, 0.02
+lipodermatosclerosis, 0.1
+lipodystrophy, 0.16
+lipoedema, 0.02
+lipoid proteinosis, 0.02
+lipoma, 0.12
+lipomas, 0.04
+lipomatosis, 0.02
+localized scleroderma, 0.26
+localized scleroderma (morhea), 0.02
+localized scleroderma (morphaea), 0.02
+localized scleroderma (morphea), 3.78
+lupus, 0.56
+lupus (juvenile sle), 0.02
+lupus (systemic lupus erythematosus), 0.97
+lupus erythematosus, 0.06
+lyme disease, 0.06
+lymphadenopathy, 0.06
+lymphedema, 0.06
+marfan syndrome, 0.02
+methemoglobinemia, 0.02
+mixed connective tissue disease, 4.61
+mixed connective tissue disease (mctd), 3.62
+morphea, 0.48
+muscle strain or overuse injury, 0.02
+musculoskeletal strain or injury, 0.02
+myasthenia gravis, 0.12
+myofascial pain syndrome, 0.02
+myositis, 0.02
+nephrogenic systemic fibrosis, 0.04
+nephrotic syndrome, 0.04
+neurofibroma, 0.02
+neurofibromatosis, 0.04
+obesity-related respiratory issues, 0.04
+pediatric fibromyalgia, 0.04
+pediatric gastroesophageal reflux disease (gerd), 0.02
+pediatric lupus, 0.04
+pediatric pulmonary hypertension, 0.02
+pediatric raynaud's phenomenon, 0.02
+pediatric rheumatoid arthritis, 0.04
+pediatric scleroderma, 0.04
+peripheral arterial disease, 0.22
+peripheral arterial disease (pad), 0.08
+peripheral artery disease, 1.33
+peripheral artery disease (pad), 0.4
+peripheral artery disease (pediatric), 0.04
+peripheral cyanosis, 0.18
+peripheral neuropathy, 0.76
+peripheral vascular disease, 0.62
+plummer-vinson syndrome, 0.02
+polymyositis, 0.08
+primary esophageal motility disorder, 0.02
+primary pulmonary hypertension, 0.18
+primary raynaud's disease, 0.1
+psoriasis, 0.04
+psoriatic arthritis, 0.06
+psychological stress or anxiety, 0.02
+psychosomatic pain, 0.02
+pulmonary arterial hypertension, 0.06
+pulmonary hypertension, 0.06
+raynaud's disease, 0.74
+raynaud's phenomenon, 13.86
+raynaud's phenomenon (secondary), 0.02
+raynaud's phenomenon associated with connective tissue disease, 0.02
+raynaud's phenomenon secondary to another autoimmune condition, 0.02
+raynaud's phenomenon secondary to another autoimmune disorder, 0.02
+raynaud's phenomenon secondary to another connective tissue disease, 0.02
+raynaud's phenomenon secondary to connective tissue disease, 0.06
+raynaud's phenomenon secondary to juvenile connective tissue disease, 0.02
+raynaud's phenomenon with connective tissue disease, 0.08
+raynaud's phenomenon with connective tissue disorder, 0.12
+raynaud's phenomenon with esophageal dysfunction, 0.02
+raynaud's phenomenon with esophageal involvement, 0.02
+raynaud's phenomenon with sclerodactyly, 0.02
+raynaud's phenomenon with secondary causes, 0.04
+raynaud's phenomenon with secondary connective tissue disease, 0.04
+raynaud's phenomenon with secondary connective tissue disorder, 0.06
+raynaud's phenomenon with secondary sclerodactyly, 0.04
+raynaud's phenomenon with secondary scleroderma, 0.04
+raynaud's phenomenon with secondary skin changes, 0.02
+raynaud's syndrome, 0.02
+raynaud’s phenomenon, 0.08
+raynaud’s phenomenon (primary), 0.02
+reactive arthritis, 0.02
+reflex sympathetic dystrophy, 0.06
+reflex sympathetic dystrophy (complex regional pain syndrome type i), 0.02
+reflex sympathetic dystrophy (complex regional pain syndrome), 0.36
+reflex sympathetic dystrophy (rsd), 0.14
+reflex sympathetic dystrophy (rsd)/complex regional pain syndrome (crps), 0.02
+respiratory infection, 0.02
+rheumatic fever, 0.12
+rheumatoid arthritis, 0.16
+rheumatoid arthritis (juvenile form), 0.02
+rheumatoid arthritis (juvenile idiopathic arthritis), 0.04
+rheumatoid arthritis (juvenile), 0.06
+rheumatoid nodules in juvenile idiopathic arthritis, 0.02
+sarcoidosis, 0.02
+scleredema, 0.02
+scleroderma, 7.69
+scleroderma (juvenile localized), 0.02
+scleroderma (juvenile systemic sclerosis), 0.54
+scleroderma (localized or systemic sclerosis), 0.02
+scleroderma (localized or systemic), 0.06
+scleroderma (localized scleroderma or morphea), 0.02
+scleroderma (localized scleroderma), 0.1
+scleroderma (localized scleroderma/morphea), 0.02
+scleroderma (localized), 2.81
+scleroderma (localized/cutaneous), 0.02
+scleroderma (pediatric localized scleroderma), 0.02
+scleroderma (pediatric systemic sclerosis), 0.08
+scleroderma (pediatric), 0.02
+scleroderma (systemic sclerosis), 0.7
+scleroderma-like syndrome due to environmental or drug exposure, 0.02
+scleromyxedema, 0.04
+sjögren's syndrome, 0.2
+systemic lupus erythematosus, 0.56
+systemic lupus erythematosus (childhood onset), 0.02
+systemic lupus erythematosus (pediatric), 0.02
+systemic lupus erythematosus (sle), 2.0
+systemic lupus erythematosus (with subcutaneous involvement), 0.02
+systemic sclerosis, 0.22
+systemic sclerosis (juvenile form), 0.02
+systemic sclerosis (juvenile scleroderma), 0.02
+systemic sclerosis (scleroderma), 1.41
+thoracic outlet syndrome, 0.04
+type 1 diabetes mellitus, 0.02
+urinary tract infection, 0.02
+vascular anomaly, 0.02
+vascular compression syndromes, 0.02
+vascular disease, 0.02
+vascular ehlers-danlos syndrome, 0.04
+vascular malformation, 0.02
+vasculitis, 0.02
+vibration white finger, 0.04
+viral infection, 0.04
+viral myositis, 0.16
+vitamin d deficiency, 0.14
