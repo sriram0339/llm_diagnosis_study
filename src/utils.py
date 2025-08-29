@@ -188,21 +188,23 @@ class PatientData:
         lst = [v[0] for (i, v) in self.responses.items() if i <= k]
         return lst
     
-def process_file(filename):
+def process_file(filename, debug=False):
     file = open(filename,'r')
     cur_patient = None
     all_patients = []
     for line in file:
         m = re.match('\s*P:\s*(\d+\.?\d*),\s*(male|female)\s*,\s*(\d+\.?\d*)\s*,\s*(\d+\.?\d*)\s*,\s*(\d+\.?\d*)\s*', line)
         if m:
-            print(f'Patient: number {m.group(1)}, gender {m.group(2)}, age {m.group(3)}, weight {m.group(4)}, height {m.group(5)}')
+            if debug:
+                print(f'Patient: number {m.group(1)}, gender {m.group(2)}, age {m.group(3)}, weight {m.group(4)}, height {m.group(5)}')
             if cur_patient != None:
                 all_patients.append(cur_patient)
             cur_patient = PatientData(int(m.group(1)), m.group(2), int(m.group(3)), float(m.group(4)), float(m.group(5)))
         else:
             m = re.match('s*S:\s*(.*)', line)
             if m:
-                print(f'Symptom: {m.group(1)}')
+                if debug:
+                    print(f'Symptom: {m.group(1)}')
                 assert cur_patient != None
                 cur_patient.add_symptom(m.group(1))
             else:
@@ -212,7 +214,8 @@ def process_file(filename):
                     diag = m.group(2).strip()
                     pct = int(m.group(3))
                     reasoning = m.group(4).strip()
-                    print(f'response: {resp_id},*{diag}*,{pct}%,*{reasoning}*')
+                    if debug:
+                        print(f'response: {resp_id},*{diag}*,{pct}%,*{reasoning}*')
                     assert cur_patient != None
                     cur_patient.add_response(resp_id, diag, pct, reasoning)
     return all_patients
