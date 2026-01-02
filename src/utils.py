@@ -63,7 +63,7 @@ def parse_response(response):
     lst_of_lines = response.split('\n')
     results = []
     for (j, line) in enumerate(lst_of_lines): 
-        m = re.match(r"(\d+).\s*(.*)\s*,\s*(\d+)%,(.*)", line)
+        m = re.match(r"(\\d+).\\s*(.*)\\s*,\\s*(\\d+)%,(.*)", line)
         if m != None:
             results.append((m.group(2), m.group(3), m.group(4)))
     return results
@@ -193,7 +193,7 @@ def process_file(filename, debug=False):
     cur_patient = None
     all_patients = []
     for line in file:
-        m = re.match('\s*P:\s*(\d+\.?\d*),\s*(male|female)\s*,\s*(\d+\.?\d*)\s*,\s*(\d+\.?\d*)\s*,\s*(\d+\.?\d*)\s*', line)
+        m = re.match('\\s*P:\\s*(\\d+\\.?\\d*),\\s*(male|female)\\s*,\\s*(\\d+\\.?\\d*)\\s*,\\s*(\\d+\\.?\\d*)\\s*,\\s*(\\d+\\.?\\d*)\\s*', line)
         if m:
             if debug:
                 print(f'Patient: number {m.group(1)}, gender {m.group(2)}, age {m.group(3)}, weight {m.group(4)}, height {m.group(5)}')
@@ -201,14 +201,14 @@ def process_file(filename, debug=False):
                 all_patients.append(cur_patient)
             cur_patient = PatientData(int(m.group(1)), m.group(2), int(m.group(3)), float(m.group(4)), float(m.group(5)))
         else:
-            m = re.match('s*S:\s*(.*)', line)
+            m = re.match('s*S:\\s*(.*)', line)
             if m:
                 if debug:
                     print(f'Symptom: {m.group(1)}')
                 assert cur_patient != None
                 cur_patient.add_symptom(m.group(1))
             else:
-                m = re.match('\s*R:\s*(\d+)\s*,\s*(.*)\s*,\s*(\d+)\s*,\s*(.*)', line)
+                m = re.match('\\s*R:\\s*(\\d+)\\s*,\\s*(.*)\\s*,\\s*(\\d+)\\s*,\\s*(.*)', line)
                 if m:
                     resp_id = int(m.group(1))
                     diag = m.group(2).strip()
