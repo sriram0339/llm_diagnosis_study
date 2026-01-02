@@ -111,7 +111,7 @@ import anthropic
 
 
 anthropic_client = anthropic.Anthropic(
-    api_key="...",
+    api_key="...", ## to do fill in the API key when set up
 )
 
 def prompt_anthropic(prompt_str, model='claude-3-sonnet-20240229'):
