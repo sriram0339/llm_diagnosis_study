@@ -111,7 +111,7 @@ import anthropic
 
 
 anthropic_client = anthropic.Anthropic(
-    api_key="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",
+    api_key="...",
 )
 
 def prompt_anthropic(prompt_str, model='claude-3-sonnet-20240229'):
