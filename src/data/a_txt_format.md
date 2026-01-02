@@ -5,7 +5,7 @@ The name of the file is of the form `{target-disease}-{prompting modality}-{LLM-
 
   - `target-disease` is one of JDM (Juvenile Dermatomyositis), MCTD (Mixed Connective Dissue Disease), SLE (Lupus), SystemicSclerosis.
   - `prompting modality` can be formal or informal. Formal modality uses medical terminology for describing symptoms whereas the informal modality describes symptoms informally as a patient would.
-  - `LLM-version` : we have tries chatgpt, claude and various versions.
+  - `LLM-version` : we have tried chatgpt, claude and various versions.
 
 
 Each file is a record of the patient symptoms and the parsed responses
@@ -15,11 +15,14 @@ Here is an example for a particular patient.
 
 The first line `P:` indicates a new patient record has begun  with the patient number, gender, age, height and weight.
 
-Lines starting with `S:` record the symptoms that were generated.
+Lines starting with `S:` record the symptoms that were generated. In the formal modality files, we use clinical terminology for the symptom whereas in the informal modality, we use the terms that a patient would use.
+
 Lines starting with `R:` record the responses.
+  - Each response line has the name of the diagnosis from the LLM, the probability of the diagnosis (as a percentage) and a brief rationale supplied byt he LLM.
+  
 
 The overall prompt for the LLM was symthesized using the `P:` and `S:`
-lines. The LLM response was parsed to generate the `R:` lines.
+lines. The LLM response was parsed to generate each of the `R:` lines. The LLM was asked to generate no more than 5 diagnosis for each patient.
 
 ~~~
 P: 2, female, 10, 54, 46
@@ -37,3 +40,5 @@ R: 4, Kawasaki Disease, 10,  the combination of fever, red cuticles, and bumps u
 R: 5, Sepsis, 5,  the patient's symptoms of fever, fatigue, and cold hands can be concerning for sepsis, especially if there is an underlying infection causing the symptoms.
 ~~~
 
+Note: All patients are synthetic record whose symptom distributions
+match those reported in the population with the target diagnosis.
